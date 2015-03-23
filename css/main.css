@@ -1,0 +1,98 @@
+/*header*/
+header {
+	position: relative;
+}
+header .subheader {
+	margin-top: 0;
+}
+
+/*placemats*/
+#about-us #main-container {
+	background: url(/images/placemats/aboutus.jpg) no-repeat top center;
+}
+#smartart #main-container {
+	background: url(/images/placemats/smartart.jpg) no-repeat top center;
+}
+#design-solutions #main-container {
+	background: url(/images/placemats/designsolutions.jpg) no-repeat top center;
+}
+#production-solutions #main-container {
+	background: url(/images/placemats/productionsolutions.jpg) no-repeat top center;
+}
+#management-solutions #main-container {
+	background: url(/images/placemats/managementsolutions.jpg) no-repeat top center;
+}
+#news #main-container {
+	background: url(/images/placemats/news.jpg) no-repeat top center;
+}
+#generic #main-container {
+	background: url(/images/placemats/generic.jpg) no-repeat top center;
+}
+
+/*main*/
+#main-container {
+	min-height: 800px;
+}
+#main-content, #main-heading {
+	width: 885px;
+}
+#main-heading {
+	margin: 76px auto 0 auto;
+}
+#main-content {
+	margin: 0 auto;
+	padding-left: 65px;
+	min-height: 520px;
+}
+@media only screen and (max-width: 64em) {
+	/*main*/
+	#main-container {
+		background: none !important;
+		min-height: 400px;
+	}
+	#main-content {
+		height: auto;
+		min-height: inherit;
+	}
+	#main-content, #main-heading {
+		width: 100%;
+	}
+	#main-heading {
+		margin: 0 auto;
+	}
+}
+
+/*a, a:hover*/
+#main-content a {
+	color: #0091d0;
+	text-decoration: none;
+}
+#main-content a:hover {
+	text-decoration: underline;
+}
+
+/*generalizations*/
+h1 {
+	font-size: 24px;
+	color: #fff;
+	width: 100%;
+	background: rgba(0, 53, 149, 0.5);
+	margin: 0;
+	padding: 15px 30px;
+}
+h2 {
+	font-size: 22px;
+	color: #003595;
+	margin: 0;
+	line-height: 26px;
+}
+h3 {
+	font-size: 16px;
+	color: #0091d0;
+	line-height: 22px;
+}
+div.triangle {
+	height: 26px;
+	border-top: 10px solid #90f500;
+	background: url(/images/common/h1-triangle.png) 26px bottom no-repeat;
+}
