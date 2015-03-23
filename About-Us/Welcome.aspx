@@ -42,7 +42,7 @@
 						<p>Start content here.</p>
 						<!-- CMSContentEnd:Main -->
 					</section>
-                    <div class="editable-content">
+                    <div class="">
 						<!-- CMSContentStart:Heading -->
 							<h1>Welcome testing</h1>
 						<!-- CMSContentEnd:Heading -->
