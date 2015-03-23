@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>H1 Tag</h1>
+							<h1>Welcome</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
