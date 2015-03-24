@@ -41,7 +41,7 @@ header .subheader {
 }
 #main-content {
 	margin: 0 auto;
-	padding-left: 0px;
+	padding-left: 45px;
     padding-bottom: 40px;
 	min-height: 520px;
 }
@@ -155,7 +155,8 @@ ul.list{
 
 @media (max-width: 992px) {
     #main-content {
-        padding-left: 0;
+        padding-top: 20px;
+        padding-left: 0px;
 	}
     .welcome-men{
         margin: 10px 20px 10px 0px;
