@@ -121,7 +121,7 @@ div.triangle {
 .signature{
     position: relative;
     margin-top: -25px;
-    padding-bottom: 20px;
+    padding-bottom: 20px; 
 }
 .italic{
     font-style: italic;
