@@ -38,7 +38,7 @@
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
                         <div class="row">
-                            <div class="small-8 columns">
+                            <div class="left small-12 large-8 columns">
                                 <h2>Prototype...</h2>
                                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
                                 <p>
@@ -48,22 +48,22 @@
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                 </p>
                             </div>
-                            <div class="small-4 columns">
-                                 <img src="/images/general/welcome-women.png" alt="Welcome Woman" class="img-radius" width="300" height="300"/>
+                            <div class="right small-12 large-4 columns">
+                                 <img src="images/general/welcome-women.png" alt="Welcome Woman" class="img-radius welcome-woman" width="300" height="300"/>
                             </div>
                         </div>
                         <div class="row">
                             <div class="small-12 columns">
                                 <h3>Our Passion...</h3>
-                                <ul>
+                                <ul class="list">
                                     <li>
-                                        Lorem Ipsum is simply dummy <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                     <li>
-                                        Lorem Ipsum is simply <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                     <li>
-                                        Lorem Ipsum is simply dummy text of the printing and <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                        <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                 </ul>
                             </div>
@@ -79,16 +79,27 @@
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.
                                 </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <div class="left">
+                                    <img src="images/general/welcome-men.png" alt="Welcome men" class="img-radius welcome-men" width="225px" height="auto"/>
+                                </div>
                                 <h3>A Little About Us.</h3>
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                                 </p>
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
                                 </p>
-                                <h3>Let's Talk.</h3>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="small-12 columns">
+                                <h3>Let's Talk</h3>
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                                 </p>
@@ -98,7 +109,7 @@
                                     Warm Regards,
 
                                 </p>
-                                <img src="/images/general/signature.png" alt="Welcome Signature" class="signature"/>
+                                <img src="images/general/signature.png" alt="Welcome Signature" class="signature"/>
                             </div>
                         </div>
 						<!-- CMSContentEnd:Main -->
