@@ -38,7 +38,7 @@
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
                         <div class="row">
-                            <div class="large-8 columns">
+                            <div class="small-8 columns">
                                 <h2>Prototype...</h2>
                                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
                                 <p>
@@ -48,12 +48,12 @@
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                 </p>
                             </div>
-                            <div class="large-4 columns">
+                            <div class="small-4 columns">
                                  <img src="images/general/welcome-women.png" alt="Welcome Woman" class="img-radius" width="300" height="300"/>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="large-12 columns">
+                            <div class="small-12 columns">
                                 <h3>Our Passion...</h3>
                                 <ul>
                                     <li>
@@ -69,7 +69,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="large-12 columns">
+                            <div class="small-12 columns">
                                 <h3>... And we put our passion to workfor you like no one else.</h3>
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
