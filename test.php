@@ -55,15 +55,15 @@
                         <div class="row">
                             <div class="small-12 columns">
                                 <h3>Our Passion...</h3>
-                                <ul>
+                                <ul class="list">
                                     <li>
-                                        Lorem Ipsum is simply dummy <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                     <li>
-                                        Lorem Ipsum is simply <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                     <li>
-                                        Lorem Ipsum is simply dummy text of the printing and <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                        <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                                     </li>
                                 </ul>
                             </div>

@@ -117,6 +117,13 @@ div.triangle {
     position: relative;
     margin-top: -25px;
 }
+.italic{
+    font-style: italic;
+}
+ul.list{
+  margin-left: 2.1rem;
+
+}
 
 
 /* UTILITIES
