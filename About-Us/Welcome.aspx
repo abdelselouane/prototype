@@ -101,7 +101,6 @@
                                 <img src="/images/general/signature.png" alt="Welcome Signature" class="signature"/>
                             </div>
                         </div>
-                        
 						<!-- CMSContentEnd:Main -->
 					</section>
 				</div>
