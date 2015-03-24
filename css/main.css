@@ -41,7 +41,7 @@ header .subheader {
 }
 #main-content {
 	margin: 0 auto;
-	padding-left: 65px;
+	padding-left: 45px;
 	min-height: 520px;
 }
 @media only screen and (max-width: 64em) {
@@ -95,4 +95,39 @@ div.triangle {
 	height: 26px;
 	border-top: 10px solid #90f500;
 	background: url(/images/common/h1-triangle.png) 26px bottom no-repeat;
+}
+
+/* WElCOME PAGE
+==============================
+*/
+
+.img-radius{
+    border-radius: 20px 20px 0 20px;
+}
+.img-left { 
+    float: left; 
+    margin: 10px; 
+}
+.img-right { 
+    float: right; 
+    margin: 10px; 
+}
+.signature{
+    position: relative;
+    margin-top: -25px;
+}
+
+
+/* UTILITIES
+===============================
+*/
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear{
+    clear: both;
 }

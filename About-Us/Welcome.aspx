@@ -42,11 +42,6 @@
 						<p>Start content here.</p>
 						<!-- CMSContentEnd:Main -->
 					</section>
-                    <div class="">
-						<!-- CMSContentStart:Heading -->
-							<h1>Welcome testing</h1>
-						<!-- CMSContentEnd:Heading -->
-				    </div>
 				</div>
 			</div>
 		
