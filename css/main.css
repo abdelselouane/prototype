@@ -42,7 +42,7 @@ header .subheader {
 #main-content {
 	margin: 0 auto;
 	padding-left: 45px;
-    padding-bottom: 40px;
+    padding-bottom:20px;
 	min-height: 520px;
 }
 @media only screen and (max-width: 64em) {
@@ -121,6 +121,7 @@ div.triangle {
 .signature{
     position: relative;
     margin-top: -25px;
+    padding-bottom: 20px;
 }
 .italic{
     font-style: italic;
