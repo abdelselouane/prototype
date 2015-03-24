@@ -49,7 +49,7 @@
                                 </p>
                             </div>
                             <div class="right small-12 large-4 columns">
-                                 <img src="images/general/welcome-women.png" alt="Welcome Woman" class="img-radius welcome-woman" width="300" height="300"/>
+                                 <img src="/images/general/welcome-women.png" alt="Welcome Woman" class="img-radius welcome-woman" width="300" height="300"/>
                             </div>
                         </div>
                         <div class="row">
@@ -84,7 +84,7 @@
                         <div class="row">
                             <div class="small-12 columns">
                                 <div class="left">
-                                    <img src="images/general/welcome-men.png" alt="Welcome men" class="img-radius welcome-men" width="225px" height="auto"/>
+                                    <img src="/images/general/welcome-men.png" alt="Welcome men" class="img-radius welcome-men" width="225px" height="auto"/>
                                 </div>
                                 <h3>A Little About Us.</h3>
                                 <p>
@@ -109,7 +109,7 @@
                                     Warm Regards,
 
                                 </p>
-                                <img src="images/general/signature.png" alt="Welcome Signature" class="signature"/>
+                                <img src="/images/general/signature.png" alt="Welcome Signature" class="signature"/>
                             </div>
                         </div>
 						<!-- CMSContentEnd:Main -->
