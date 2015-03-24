@@ -49,7 +49,7 @@
                                 </p>
                             </div>
                             <div class="small-4 columns">
-                                 <img src="images/general/welcome-women.png" alt="Welcome Woman" class="img-radius" width="300" height="300"/>
+                                 <img src="/images/general/welcome-women.png" alt="Welcome Woman" class="img-radius" width="300" height="300"/>
                             </div>
                         </div>
                         <div class="row">
@@ -98,7 +98,7 @@
                                     Warm Regards,
 
                                 </p>
-                                <img src="images/general/signature.png" alt="Welcome Signature" class="signature"/>
+                                <img src="/images/general/signature.png" alt="Welcome Signature" class="signature"/>
                             </div>
                         </div>
                         
