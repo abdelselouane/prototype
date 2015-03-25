@@ -165,7 +165,7 @@
                         <div class="row">
                             <div class="small-12 large-6 columns">
                                 
-                                <div class="location-img">
+                                <div class="location-img-large">
                                     <!-- CMSContentStart:Image -->
                                      <img src="../images/general/location-appleton.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
                                     <!-- CMSContentStart:Image -->
@@ -197,7 +197,7 @@
                             </div>
                             <div class="small-12 large-6 columns">
                                 
-                                <div class="location-img">
+                                <div class="location-img-large">
                                     <!-- CMSContentStart:Image -->
                                      <img src="../images/general/location-fayetteville.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
                                     <!-- CMSContentStart:Image -->
@@ -241,7 +241,7 @@
                         <div class="row">
                             <div class="small-12 large-6 columns">
                                 
-                                <div class="location-img">
+                                <div class="location-img-large">
                                     <!-- CMSContentStart:Image -->
                                      <img src="../images/general/location-shanghai.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
                                     <!-- CMSContentStart:Image -->
@@ -279,7 +279,7 @@
                             </div>
                             <div class="small-12 large-6 columns">
                                 
-                                <div class="location-img">
+                                <div class="location-img-large">
                                     <!-- CMSContentStart:Image -->
                                      <img src="../images/general/location-ashford.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
                                     <!-- CMSContentStart:Image -->

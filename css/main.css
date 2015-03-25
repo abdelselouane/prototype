@@ -177,6 +177,11 @@ ul.list{
     float: left; 
     margin-right: 15px; 
 }
+.location-img-large{
+    width: auto;
+    float: left; 
+    margin-right: 15px; 
+}
 .business-info{
     float:left;
     width:140px;
