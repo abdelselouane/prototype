@@ -9,24 +9,31 @@ header .subheader {
 /*placemats*/
 #about-us #main-container {
 	background: url(/images/placemats/aboutus.jpg) no-repeat top center;
+    background-size: cover;
 }
 #smartart #main-container {
 	background: url(/images/placemats/smartart.jpg) no-repeat top center;
+    background-size: cover;
 }
 #design-solutions #main-container {
 	background: url(/images/placemats/designsolutions.jpg) no-repeat top center;
+    background-size: cover;
 }
 #production-solutions #main-container {
 	background: url(/images/placemats/productionsolutions.jpg) no-repeat top center;
+    background-size: cover;
 }
 #management-solutions #main-container {
 	background: url(/images/placemats/managementsolutions.jpg) no-repeat top center;
+    background-size: cover;
 }
 #news #main-container {
 	background: url(/images/placemats/news.jpg) no-repeat top center;
+    background-size: cover;
 }
 #generic #main-container {
 	background: url(/images/placemats/generic.jpg) no-repeat top center;
+    background-size: cover;
 }
 
 /*main*/
