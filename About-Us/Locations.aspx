@@ -36,11 +36,286 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-						<!-- CMSContentStart:Main -->
-						<h2>H2 Tag</h2>
-						<h3>H3 Tag</h3>
-						<p>Start content here.</p>
-						<!-- CMSContentEnd:Main -->
+                        <div class="row">
+                            <div class="small-12 large-12 columns">
+                                
+                                <div class="headquarter-image">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location1.png" alt="Welcome Woman" class="img-radius"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="headquarter-address">
+                                    
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h3 class="title">Our headquarters is a 6-acre campus in downtown Cincinnati, Ohio.</h3>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        2141 Gilbert Avenue <br />Cincinnati, Ohio 45206<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+                                  
+                                   <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">    
+                                        <li>Contact:</li> 
+                                        <li>Matt Nolan</li> 
+                                        <li>nolanm@phototype.com </li>
+                                        <li>(513) 281-0999</li>
+                                    </ul>
+                                   <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                                <div class="clear"></div>
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-12 columns">
+                                <!-- CMSContentStart:SectionTitle -->
+                                <h3 class="margin-top-20px">We have additional U.S. production facilities in <br />Columbus, Ohio and Dallas, Texas. </h3>
+                                <!-- CMSContentEnd:SectionTitle -->
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-columbus.png" alt="Welcome Woman" class="img-radius" width="235px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info">
+                                    
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Columbus, Ohio</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        2500 Harrison Road <br />Columbus, Ohio 43204<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Jill Kelley</li>
+                                        <li>kelleyj@phototype.com</li>
+                                        <li>(614) 308-1900</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-dallas.png" alt="Welcome Woman" class="img-radius" width="235px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info">
+                                     
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Dallas, Texas</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        1340 Walnut Hills Lane <br />Suite190<br />Irving, Texas 75038<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Tim Dunkle</li>
+                                        <li>dunklet@phototype.com</li>
+                                        <li>(972) 714-5371</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                                <div class="clear"></div>
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-12 columns">
+                                
+                                <!-- CMSContentStart:SectionTitle -->
+                                <h3 class="">We also maintain seven client-dedicated service centers <br /> (both on-site and near site) throughout the U.S. </h3>
+                                <!-- CMSContentEnd:SectionTitle -->
+                                
+                                <!-- CMSContentStart:Paragraph -->
+                                <p class="bold">
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled:
+                                </p>
+                                <!-- CMSContentEnd:Paragraph -->
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-appleton.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info-large">
+                                    
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Appleton, Wisconsin</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                         W6272 Communication Court <br />Appleton, Wisconsin 54914<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Karla Ellis</li>
+                                        <li>ellis@phototype.com</li>
+                                        <li>(920) 968-9302</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-fayetteville.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info-large">
+                                     
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Fayetteville, Arkansas</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        1792 East Joyce Avenue <br />Fayetteville, Arkansas 72703<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+                                    
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Tania Herndon</li>
+                                        <li>Herndont@phototype.com</li>
+                                        <li>(479) 445-6999</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                                <div class="clear"></div>
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-12 columns">
+                                
+                                <!-- CMSContentStart:SectionTitle -->
+                                <h3 class="margin-top-20px">Internationally, we currently maintain operations <br />in Shanghai, China and Ashford, United Kingdom. </h3>
+                                <!-- CMSContentEnd:SectionTitle -->
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-shanghai.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info-large">
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Shanghai, China</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+                                    
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        中国上海市浦东新区张杨路707号 <br />
+                                        生命人寿大厦22楼2228室 <br />
+                                        Suite 2228, 22th floor <br />
+                                        Sino Life Tower <br />
+                                        No. 707 Zhangyang Road<br />
+                                        Pudong New District<br /> 
+                                        Shanghai, China 200120<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Josh Dearwater</li>
+                                        <li>dearwaterj@phototype.com</li>
+                                        <li>+86 021 6126 3102</li>
+                                        <li>+1 859-341-3131 cell</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="small-12 large-6 columns">
+                                
+                                <div class="location-img">
+                                    <!-- CMSContentStart:Image -->
+                                     <img src="../images/general/location-ashford.png" alt="Welcome Woman" class="img-radius" width="155px" height="auto"/>
+                                    <!-- CMSContentStart:Image -->
+                                </div>
+                                
+                                <div class="business-info-large">
+                                     
+                                    <!-- CMSContentStart:SectionTitle -->
+                                    <h5>Ashford, United Kingdom</h5>
+                                    <!-- CMSContentEnd:SectionTitle -->
+
+                                    <!-- CMSContentStart:Address -->
+                                    <address>
+                                        Phototype UK LTD<br />
+                                        The Corner Suite<br />
+                                        The Old Court, Tufton Street<br /><br />
+                                        Ashford, Kent, TN23 1QN<br />
+                                        England<br /><br />
+                                    </address>
+                                    <!-- CMSContentEnd:Address -->
+                                    
+                                    <!-- CMSContentStart:ContentList -->
+                                    <ul class="contact">
+                                        <li>Contact:</li>
+                                        <li>Stuart White</li>
+                                        <li>whites@phototype.com</li>
+                                        <li>+44 (0)1233 220371</li>
+                                    </ul>
+                                    <!-- CMSContentEnd:ContentList -->
+                                    
+                                </div>
+                                
+                                <div class="clear"></div>
+                                
+                            </div>
+                        </div>
 					</section>
 				</div>
 			</div>
