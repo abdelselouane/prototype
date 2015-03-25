@@ -61,7 +61,7 @@
                                     <ul class="contact">    
                                         <li>Contact:</li> 
                                         <li>Matt Nolan</li> 
-                                        <li>nolanm@phototype.com </li>
+                                        <li><a href="mailto:nolanm@phototype.com">nolanm@phototype.com</a></li>
                                         <li>(513) 281-0999</li>
                                     </ul>
                                    <!-- CMSContentEnd:ContentList -->
@@ -104,7 +104,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Jill Kelley</li>
-                                        <li>kelleyj@phototype.com</li>
+                                        <li><a href="mailto:kelleyj@phototype.com">kelleyj@phototype.com</a></li>
                                         <li>(614) 308-1900</li>
                                     </ul>
                                     <!-- CMSContentEnd:ContentList -->
@@ -136,7 +136,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Tim Dunkle</li>
-                                        <li>dunklet@phototype.com</li>
+                                        <li><a href="mailto:dunklet@phototype.com">dunklet@phototype.com</a></li>
                                         <li>(972) 714-5371</li>
                                     </ul>
                                     <!-- CMSContentEnd:ContentList -->
@@ -187,7 +187,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Karla Ellis</li>
-                                        <li>ellis@phototype.com</li>
+                                        <li><a href="mailto:ellis@phototype.com">ellis@phototype.com</a></li>
                                         <li>(920) 968-9302</li>
                                     </ul>
                                     <!-- CMSContentEnd:ContentList -->
@@ -219,7 +219,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Tania Herndon</li>
-                                        <li>Herndont@phototype.com</li>
+                                        <li><a href="mailto:Herndont@phototype.com">Herndont@phototype.com</a></li>
                                         <li>(479) 445-6999</li>
                                     </ul>
                                     <!-- CMSContentEnd:ContentList -->
@@ -268,7 +268,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Josh Dearwater</li>
-                                        <li>dearwaterj@phototype.com</li>
+                                        <li><a href="mailto:dearwaterj@phototype.com">dearwaterj@phototype.com</a></li>
                                         <li>+86 021 6126 3102</li>
                                         <li>+1 859-341-3131 cell</li>
                                     </ul>
@@ -305,7 +305,7 @@
                                     <ul class="contact">
                                         <li>Contact:</li>
                                         <li>Stuart White</li>
-                                        <li>whites@phototype.com</li>
+                                        <li><a href="mailto:whites@phototype.com">whites@phototype.com</a></li>
                                         <li>+44 (0)1233 220371</li>
                                     </ul>
                                     <!-- CMSContentEnd:ContentList -->
