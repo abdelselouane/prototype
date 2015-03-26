@@ -57,7 +57,7 @@
                             <div class="right small-12 large-4 columns">
                                 
                                 <!-- CMSContentStart:Image -->
-                                 <img src="../images/general/Our_Responsibility_Clients_1.png" alt="Our Responsibility Clients Woman" class="img-radius welcome-woman" width="300" height="300"/>
+                                 <img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Our Responsibility Clients Woman" class="img-radius welcome-woman" width="300" height="auto"/>
                                 <!-- CMSContentStart:Image -->
                                 
                             </div>
@@ -117,7 +117,7 @@
                                 <div class="container-left">
                                     
                                     <!-- CMSContentStart:Image -->
-                                    <img src="../images/general/Our_Responsibility_Clients_2.png" alt="Clients men" class="img-radius welcome-men" width="225px" height="auto"/>
+                                    <img src="../../images/general/Our_Responsibility_Clients_2.png" alt="Clients men" class="img-radius welcome-men" width="225px" height="auto"/>
                                     <!-- CMSContentEnd:Image -->
                                     
                                 </div>

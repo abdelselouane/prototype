@@ -57,7 +57,7 @@
                             <div class="right small-12 large-4 columns">
                                 
                                 <!-- CMSContentStart:Image -->
-                                 <img src="../images/general/About_us_clients_1.png" alt="Clients Woman" class="img-radius welcome-woman" width="300" height="300"/>
+                                 <img src="../images/general/About_us_clients_1.png" alt="Clients Woman" class="img-radius welcome-woman" width="300" height="auto"/>
                                 <!-- CMSContentStart:Image -->
                                 
                             </div>
