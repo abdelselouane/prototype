@@ -196,6 +196,19 @@ ul.list{
   margin-top: 5px;
 }
 
+/* CONTENT PAGES
+===============================
+*/
+
+ul.content-list{
+   margin-left: 50px; 
+}
+
+ul.content-list li{
+  margin-bottom: 10px
+}
+
+
 /* TEXT ALIGNMENT
 ===============================
 */
@@ -241,7 +254,22 @@ ul.list{
 .margin-top-20px{
     margin-top: 20px;
 }
-
+.margin-top-25px{
+    margin-top: 25px;
+}
+.margin-top-30px{
+    margin-top: 30px;
+}
+.margin-top-35px{
+    margin-top: 35px;
+}
+.margin-top-40px{
+    margin-top: 40px;
+}
+.large-text{
+  font-size: 30px;
+  line-height: 35px;
+}
 
 /* MEDIA QUERIES
 ===============================
