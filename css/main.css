@@ -19,7 +19,6 @@ header .subheader {
 }
 #production-solutions #main-container {
 	background: url(/images/placemats/productionsolutions.jpg) no-repeat top center;
-    background-size: cover;
 }
 #management-solutions #main-container {
 	background: url(/images/placemats/managementsolutions.jpg) no-repeat top center;
