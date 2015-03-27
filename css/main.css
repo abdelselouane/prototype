@@ -255,6 +255,20 @@ ul.content-list li{
   margin-bottom: 10px
 }
 
+/*
+==============================
+*/
+
+.img-list{
+    position:relative;
+    float:left;
+    width:160px;
+    height:auto;
+    margin-right:10px;
+}
+.text-adjust{
+   margin-left: 170px; 
+}
 
 /* TEXT ALIGNMENT
 ===============================
@@ -379,6 +393,7 @@ ul.content-list li{
     .hide-break{
         display:none;
     }
+    
 }
 
 @media screen and (max-width: 500px){
@@ -396,11 +411,22 @@ ul.content-list li{
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 400px){
+@media (max-width: 400px){
     .full-width{
         float: none !important;
         width: 100% !important;
         margin: 0 auto !important;
         text-align: center !important;
+    }
+    .img-list{
+        float: none !important;
+        width: 100% !important;
+        margin: 0 auto !important;
+        text-align: center !important;
+    }
+    .text-adjust{
+        padding:10px 0 !important;
+        margin:0 10px !important;
+        text-align:left !important;
     }
 }
