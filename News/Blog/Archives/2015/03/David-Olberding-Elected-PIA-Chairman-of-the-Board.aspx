@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Phototype | Blog | Phototype Hires Heather Smith as HR Director</title>
+<title>Phototype | Blog | David Olberding Elected PIA Chairman of the Board</title>
 <link rel="stylesheet" href="/css/foundation.css" />
 <link rel="stylesheet" href="/css/master.css" />
 <link rel="stylesheet" href="/css/main.css" />
@@ -36,9 +36,10 @@
 					<section id="main-content">
 						<div class="row">
 							<div class="small-12 medium-9 medium-push-3 columns">
-								<h2>Phototype Hires Heather Smith as HR Director</h2>
-								<p>Heather Smith has been hired as Phototype&rsquo;s new Director of Human Resources. &nbsp;Heather comes to Phototype with a fairly long history in HR with her last job as Director of Human Resources for Northlich where she had this roll since 2007. &nbsp;Before that Heather was the Human Resources Manager of the RDW Group, Inc., in Providence RI for 7 years.</p>
-<p>Heather&rsquo;s extensive educational background consists of a Masters of Science, Human Resources Development, Xavier University, Cincinnati, OH (2011). &nbsp;She also received her Masters of Business Administration from the University of Massachusetts (2005). &nbsp;Her undergraduate degree is a BA in Accounting from Roger Williams University, Bristol, RI.</p>
+								<h2>David Olberding Elected PIA Chairman of the Board</h2>
+								<p>David Olberding, co-CEO, Phototype, has devoted many years of volunteer service to the printing industry in Ohio. He has served as Chairman of the Board, Treasurer, and Chair of the Education Committee of Printing Industries of Ohio and Northern Kentucky.</p>
+<p>Olberding was appointed as the Association Representative to Printing Industries of America in 2006. He has served Printing Industries of America as First Vice Chairman, Second Vice Chairman, Executive Finance Committee member, Secretary to the Board, and as Marketing Committee Chairman.</p>
+<p>He has served on the Board for International Prepress Association (IPA) and is a former president of the Southwest Prepress Association. He is also a former Chairman of the Photograph Committee of the Flexographic Technical Association.</p>
 							</div>
 							<div id="blog-nav" class="small-12 medium-3 medium-pull-9 columns">
 								<h3>Most Recent</h3>

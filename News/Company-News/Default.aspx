@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Phototype | Blog | Phototype Hires Heather Smith as HR Director</title>
+<title>Phototype | Company News | Phototype Hires Heather Smith as HR Director</title>
 <link rel="stylesheet" href="/css/foundation.css" />
 <link rel="stylesheet" href="/css/master.css" />
 <link rel="stylesheet" href="/css/main.css" />
@@ -23,7 +23,7 @@
 				<div class="small-12 columns">
 					<section id="main-heading">
 						<div class="editable-content">
-							<h1>Blog</h1>
+							<h1>Company News</h1>
 						</div>
 						<div class="triangle"></div>
 					</section>
@@ -43,11 +43,11 @@
 							<div id="blog-nav" class="small-12 medium-3 medium-pull-9 columns">
 								<h3>Most Recent</h3>
 								<div id="bloglinks">
-									<ul><li id='c646fb6f-310d-47b2-8d7f-ee6b959b8781'><a href='/News/Blog/Archives/2015/03/Phototype-Hires-Heather-Smith-as-HR-Director.aspx'>Phototype Hires Heather Smith as HR Director</a></li><li class='last' id='92046b29-c0f3-4a17-87b6-3dcef54c7e8f'><a href='/News/Blog/Archives/2015/03/David-Olberding-Elected-PIA-Chairman-of-the-Board.aspx'>David Olberding Elected PIA Chairman of the Board</a></li></ul>
+									<ul><li id='f97c2fcc-65a9-42be-8859-116cca5d5b81'><a href='/News/Company-News/Archives/2015/03/Phototype-Hires-Heather-Smith-as-HR-Director.aspx'>Phototype Hires Heather Smith as HR Director</a></li><li class='last' id='c9165cb4-a07e-4fd8-8230-690032b0d1fc'><a href='/News/Company-News/Archives/2015/03/David-Olberding-Elected-PIA-Chairman-of-the-Board.aspx'>David Olberding Elected PIA Chairman of the Board</a></li></ul>
 								</div>
 								<h3>Archives</h3>
 								<div id="rhtBlogArchives" style="display: none;">
-									<ul><li><a href='#2015'>2015</a><ul><li><a href='#March2015'>March</a><ul><li id='c646fb6f-310d-47b2-8d7f-ee6b959b8781'><a href='/News/Blog/Archives/2015/03/Phototype-Hires-Heather-Smith-as-HR-Director.aspx'>Phototype Hires Heather Smith as HR Director</a></li><li id='92046b29-c0f3-4a17-87b6-3dcef54c7e8f'><a href='/News/Blog/Archives/2015/03/David-Olberding-Elected-PIA-Chairman-of-the-Board.aspx'>David Olberding Elected PIA Chairman of the Board</a></li></ul></li></ul></li></ul>
+									<ul><li><a href='#2015'>2015</a><ul><li><a href='#March2015'>March</a><ul><li id='f97c2fcc-65a9-42be-8859-116cca5d5b81'><a href='/News/Company-News/Archives/2015/03/Phototype-Hires-Heather-Smith-as-HR-Director.aspx'>Phototype Hires Heather Smith as HR Director</a></li><li id='c9165cb4-a07e-4fd8-8230-690032b0d1fc'><a href='/News/Company-News/Archives/2015/03/David-Olberding-Elected-PIA-Chairman-of-the-Board.aspx'>David Olberding Elected PIA Chairman of the Board</a></li></ul></li></ul></li></ul>
 								</div>
 							</div>
 						</div>

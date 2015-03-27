@@ -84,7 +84,7 @@ h1 {
 h2 {
 	font-size: 22px;
 	color: #003595;
-	margin: 0;
+	margin: 20px 0 0 0;
 	line-height: 26px;
 }
 h3 {
@@ -199,6 +199,10 @@ h3.responsability-link{
   line-height: 20px;
   font-weight: 500;
 }
+img.img-hover:hover{
+  opacity: 0.5;    
+}
+
 
 /* SMART ART
 ===============================
