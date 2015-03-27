@@ -79,7 +79,7 @@
                                  
                                     <!-- CMSContentStart:ThirdImage -->
                                     <a href="Communities.aspx" alt="Communities">
-                                     <img src="../../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius full-width img-hover" />
+                                     <img src="../../images/general/Our_Responsibility_communities_1.png" alt="Communities" class="img-radius full-width img-hover" />
                                     
                                     <h3 class="responsability-link">Our Communities</h3>
                                     </a>
