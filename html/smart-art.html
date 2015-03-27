@@ -40,26 +40,29 @@
                             <div class="left small-12 columns">
                                 
                                 <!-- CMSContentStart:Main -->
-                                <h2>Smart Art...</h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2>The intersection of art and science</h2>
+								
+                                <h3>Our ability to seamlessly integrate the <em>art of design</em> with the <em>science  of execution</em>, in a highly efficient and effective way, is the unique value  we bring to our <a href="javascript:;">clients</a>, everyday.</h3>
+								<hr class="spacer">
+                                <img src="../images/general/smart-art.png" alt="Smart Art" class="full-width" /></p>
+								<hr class="spacer">
+								<p>Typically, getting from design to press requires multiple tasks and hand-offs  between designers, production artists, assemblers, and print suppliers. These individuals  may work in different departments or even for different companies. Managing  that complex process, while still considering the needs of the downstream  partner, can be a big challenge. All too often, initial files need to be rebuilt  or modified (some multiple times) before they can be proofed and printed. This  can result in compromised designs, unexpected errors, longer turnarounds and  additional production costs. </p>
+								
+								<p>There is a better way. With our SmartArt&#8480; process, the difference is  radical in both process and outcome.</p>
+								
+								<ul class="list">
+								  <li><h3>We design with the end in mind</h3>
+									<p>Designs are developed and delivered  with upfront, intimate knowledge of the &ldquo;downstream&rdquo; execution process. As a result, your design and  production file is <em>always </em>constructed  correctly from the very beginning,  so it can be reliably and accurately reproduced later.</p></li>
+								</ul>
+								
+								<ul type="disc">
+								  <li><h3>We execute with scientific precision</h3><p>Original design intent is meticulously  maintained by leveraging tools like digital design files, print-ready <a href="javascript:;">production art</a> and <a href="javascript:;">electronic  assembly</a>, proprietary <a href="javascript:;">print services</a>, <a href="javascript:;">color management</a> and press-side  assistance, all facilitated by a &ldquo;one version of the truth&rdquo; process.  Predictable, reliable results every step of the way. </p>
+								  </li>
+								</ul>
+								
+                                <p>Realize the full potential of SmartArt&#8480; by engaging us in a comprehensive, start-to-finish  customized solution set for your brand or by implementing any one of our  solutions in conjunction with your current processes. Either way, we&rsquo;re  confident that you&rsquo;ll see dramatic results.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                </p>
-                                
-                                <img src="../images/general/smart-art.png" alt="Smart Art" class="full-width" />
-                                
-                                <a href="#" class="smart-art first-link"><h3>Design <span class="hide-break"><br /></span>Solutions</h3></a>
-                                <a href="#" class="smart-art second-link"><h3>Production <span class="hide-break"><br /></span>Solutions</h3></a>
-                                <a href="#" class="smart-art third-link"><h3>Managment <span class="hide-break"><br /></span>Solutions</h3></a>
-                                
-                                <h3 class="smart-art-margin">Title ...</h3>
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
+								<a href="javacript:;" class="tiny button round">Let&rsquo;s Talk</a>
                                 
                                <!-- CMSContentEnd:Main -->
                                 

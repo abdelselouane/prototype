@@ -1,0 +1,31 @@
+.sok_errorAlert {
+	color:#e51b24;
+}
+.sok_errorBorder {
+	border:1px solid #e51b24 !important;
+}
+.sok_noBorder {
+}
+.sok_errorLabel {
+	color:#e51b24;
+	font-style:italic;
+	font-size:11px;
+}
+.sok_displayErrors {
+	display:none;
+}
+#sok_errorMessages {
+}
+#sok_errorMessages h3 {
+	font-weight:bold;
+	font-size:12px;
+}
+#sok_errorMessages ul {
+	color:#e51b24;
+}
+#sok_errorMessages li {
+	list-style-type:decimal;
+}
+.sok_defaultValue {
+	color:#ccc;
+}

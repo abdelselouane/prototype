@@ -9,7 +9,6 @@ header .subheader {
 /*placemats*/
 #about-us #main-container {
 	background: url(/images/placemats/aboutus.jpg) no-repeat top center;
-    background-size: cover;
 }
 #smartart #main-container {
 	background: url(/images/placemats/smartart.jpg) no-repeat top center;
@@ -22,15 +21,12 @@ header .subheader {
 }
 #management-solutions #main-container {
 	background: url(/images/placemats/managementsolutions.jpg) no-repeat top center;
-    background-size: cover;
 }
 #news #main-container {
 	background: url(/images/placemats/news.jpg) no-repeat top center;
-    background-size: cover;
 }
 #generic #main-container {
 	background: url(/images/placemats/generic.jpg) no-repeat top center;
-    background-size: cover;
 }
 
 /*main*/
@@ -117,6 +113,15 @@ address{
     font-style: normal;
 }
 
+hr.spacer {
+	border:none;
+	margin:2.25rem 0;
+}
+
+#main-content a.button {
+	color:#fff;
+}
+
 /* WElCOME PAGE
 ==============================
 */
@@ -184,9 +189,21 @@ ul.list{
   margin-top: 5px;
 }
 
+/* RESPONSABILITY 
+===============================
+*/
+
+h3.responsability-link{
+  text-align: center;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
 /* SMART ART
 ===============================
 */
+
 a.smart-art{
 position: relative;
 display: inline-block;
@@ -361,7 +378,10 @@ ul.content-list li{
 }
 
 @media screen and (max-width: 500px){
-
+	#main-content a.button {
+		display:block;
+		font-size:1rem;
+	}
     .container-left{
         float: left; 
         width: 100%;

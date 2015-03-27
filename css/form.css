@@ -1,0 +1,32 @@
+﻿/*Form Styles*/
+form label {
+	color: #003595;
+}
+.captchaImage {
+	height: 57px;
+}
+.captchaImage img {
+	width: 250px;
+}
+.formrequired {
+	color: red;
+}
+.invisible {
+	display: none;
+}
+table {
+	background: none;
+	border: none;
+}
+table tr.even, table tr.alt, table tr:nth-of-type(even) {
+	background: none;
+}
+table tr td {
+	padding: 5px;
+}
+select {
+	background-color: #fff !important;
+}
+label small {
+	color: #003595;
+}
