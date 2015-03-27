@@ -42,7 +42,7 @@
                                 <!-- CMSContentStart:Main -->
 
                                 <p>
-                                    <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius top-right-image"/>
+                                    <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius top-right-image full-width"/>
                                     <h2>Lorem Ipsum...</h2>
                                 
                                     <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
@@ -70,7 +70,7 @@
                                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
 
                                 <p>
-                                     <img src="../../images/general/Our_Responsibility_Employees_2.png" alt="Employees" class="img-radius lower-left-image"/>
+                                     <img src="../../images/general/Our_Responsibility_Employees_2.png" alt="Employees" class="img-radius lower-left-image full-width"/>
                                     <h3>Lorem Ipsum ...</h3>
 
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
