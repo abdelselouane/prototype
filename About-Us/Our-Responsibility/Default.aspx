@@ -58,7 +58,7 @@
                                 
                                     <!-- CMSContentStart:FirstImage -->
                                     <a href="Clients.aspx" alt="Clients">
-                                     <img src="../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius full-width img-hover" />
+                                     <img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius full-width img-hover" />
                                     <h3 class="responsability-link">Our Clients</h3>
                                    </a>
                                     <!-- CMSContentEnd:FirstImage -->
@@ -68,7 +68,7 @@
                                  
                                     <!-- CMSContentStart:SecondImage -->
                                     <a href="Employees.aspx" alt="Employees">
-                                     <img src="../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius full-width img-hover" />
+                                     <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius full-width img-hover" />
                                     
                                     <h3 class="responsability-link">Our Employees</h3>
                                     </a>
@@ -79,7 +79,7 @@
                                  
                                     <!-- CMSContentStart:ThirdImage -->
                                     <a href="Communities.aspx" alt="Communities">
-                                     <img src="../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius full-width img-hover" />
+                                     <img src="../../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius full-width img-hover" />
                                     
                                     <h3 class="responsability-link">Our Communities</h3>
                                     </a>
@@ -89,7 +89,7 @@
                                  
                                     <!-- CMSContentStart:FourthImage -->
                                     <a href="Environment.aspx" alt="Environment">
-                                     <img src="../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius full-width img-hover" />
+                                     <img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius full-width img-hover" />
                                     
                                     <h3 class="responsability-link">Our Environment</h3>
                                    </a>
