@@ -196,6 +196,30 @@ ul.list{
   margin-top: 5px;
 }
 
+/* SMART ART
+===============================
+*/
+a.smart-art{
+position: relative;
+display: inline-block;
+top: -115px;
+}
+a.smart-art h3{
+  color: #fff;
+  font-size: 30px;
+  line-height: 30px;
+  font-weight: 500;
+  text-align: center;
+  width: 240px;
+  margin-left: 20px;
+}
+a.smart-art:hover, a.smart-art:active{
+  text-decoration: none !important;
+}
+a.smart-art h3:hover, a.smart-art h3:active{
+  opacity: 0.5;
+}
+
 /* CONTENT PAGES
 ===============================
 */
@@ -283,7 +307,7 @@ ul.content-list li{
     }
 }
 
-@media only screen and (max-width: 992px) {
+@media screen and (max-width: 992px) {
     #main-content {
         padding-top: 20px;
         padding-left: 0px;
@@ -297,9 +321,53 @@ ul.content-list li{
     .headquarter-address {
           width: 100%;
     }
+    a.smart-art h3{
+        width:250px;
+    }
 }
 
-@media only screen and (max-width: 500px){
+@media screen and (min-width: 668px) and (max-width:992px){
+     a.smart-art h3{
+        width: 200px;
+    }
+    a.smart-art{
+        position: relative;
+        display: inline-block;
+        top: -85px;
+    }
+}
+
+@media screen and (max-width: 668px) {
+     a.smart-art h3{
+        padding:5px;
+        font-size: 30px;
+        line-height: 30px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    a.smart-art{
+        display: block;
+        top:20px;
+        
+    }
+    a.first-link h3{
+        color: #8dc63f;
+    }
+    a.second-link h3{
+        color: #0093d0;
+    }
+    a.third-link h3{
+        color: #983390;
+    }
+    .smart-art-margin{
+        margin-top: 40px;
+    }
+    .hide-break{
+        display:none;
+    }
+}
+
+@media screen and (max-width: 500px){
 
     .container-left{
         float: left;
