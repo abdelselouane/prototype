@@ -37,112 +37,58 @@
 				<div class="small-12 columns">
 					<section id="main-content">
                         <div class="row">
-                            <div class="left small-12 large-8 columns">
+                            <div class="left small-12 large-12 columns">
                                 
-                                <!-- CMSContentStart:PageTitle -->
-                                <h2>Lorem Ipsum...</h2>
-                                <!-- CMSContentEnd:PageTitle -->
-                                
-                                <!-- CMSContentStart:SectionTitle -->
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-                                <!-- CMSContentEnd:SectionTitle -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
+                                <!-- CMSContentStart:Main -->
+
                                 <p>
+                                    <img src="../images/general/About_us_clients_1.png" alt="client woman" class="img-radius top-right-image"/>
+                                    <h2>Lorem Ipsum...</h2>
+                                
+                                    <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                    
                                 </p>
-                                <!-- CMSContentEnd:Paragraph -->
+
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                </p>
                                 
-                            </div>
-                            <div class="right small-12 large-4 columns">
-                                
-                                <!-- CMSContentStart:Image -->
-                                 <img src="../images/general/About_us_clients_1.png" alt="Clients Woman" class="img-radius welcome-woman" width="300" height="auto"/>
-                                <!-- CMSContentStart:Image -->
-                                
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="small-12 columns">
-                                
-                                <!-- CMSContentStart:SectionTitle -->
                                 <h3>Lorem Ipsum...</h3>
-                                <!-- CMSContentEnd:SectionTitle -->
-                                
-                                <!-- CMSContentStart:ContentList -->
+                            
                                 <ul class="list">
-                                    <li>
-                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <li>
-                                       <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
-                                    <li>
-                                        <span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                    </li>
+                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
+                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
+                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
                                 </ul>
-                                <!-- CMSContentEnd:ContentList -->
-                                
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="small-12 columns">
-                                
-                                <!-- CMSContentStart:SectionTitle -->
+
                                 <h3>Lorem Ipsum...</h3>
-                                <!-- CMSContentEnd:SectionTitle -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
+                            
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
+
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-                                <!-- CMSContentEnd:Paragraph -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.       
-                                </p>
-                                <!-- CMSContentEnd:Paragraph -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.
-                                </p>
-                                <!-- CMSContentEnd:Paragraph -->
-                                
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="small-12 columns">
-                                <div class="container-left">
-                                    
-                                    <!-- CMSContentStart:Image -->
-                                    <img src="../images/general/About_us_clients_2.png" alt="Clients men" class="img-radius welcome-men" width="225px" height="auto"/>
-                                    <!-- CMSContentEnd:Image -->
-                                    
-                                </div>
-                                
-                                <!-- CMSContentStart:SectionTitle -->
-                                <h3>Lorem Ipsum...</h3>
-                                <!-- CMSContentEnd:SectionTitle -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
-                                <p>
+                                     <img src="../images/general/About_us_clients_2.png" alt="Welcome man" class="img-radius lower-left-image"/>
+                                    <h3>Lorem Ipsum ...</h3>
+
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                                 </p>
-                                <!-- CMSContentEnd:Paragraph -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
+
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                                 </p>
-                                <!-- CMSContentEnd:Paragraph -->
-                                
-                                <!-- CMSContentStart:Paragraph -->
+
                                 <p>
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
                                 </p>
-                                <!-- CMSContentEnd:Paragraph -->
+                        
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                </p>
+                                
+                                <!-- CMSContentEnd:Main -->
                                 
                             </div>
                         </div>
