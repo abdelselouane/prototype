@@ -42,7 +42,7 @@
                                 <!-- CMSContentStart:Main -->
 
                                 <p>
-                                    <img src="../images/general/welcome-women.png" alt="Welcome Woman" class="img-radius top-right-image full-width"/>
+                                    <img src="../images/general/welcome-women.png" alt="Welcome Woman" class="img-radius top-right-image full-width "/>
                                     <h2>Prototype...</h2>
                                 
                                     <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
