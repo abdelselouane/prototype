@@ -42,7 +42,7 @@
                                 <!-- CMSContentStart:Main -->
 
                                 <p>
-                                    <img src="../images/general/DS_design_adaptaion_1.png" alt="Design Adaptation" class="img-radius top-right-image full-width"/>
+                                    <img src="../images/general/DS_design_adaptaion_1.png" alt="Design Adaptation" class="img-radius top-right-image full-width "/>
                                     <h2>Lorem Ipsum...</h2>
                                 
                                     <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>

@@ -366,7 +366,7 @@ ul.content-list li{
 @media screen and (max-width: 500px){
 
     .container-left{
-        float: left;
+        float: left; 
         width: 100%;
         margin: 0 auto;
     }
