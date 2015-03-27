@@ -84,7 +84,7 @@
                                     </p>
                                     <!-- CMSContentEnd:FourthImageSection -->
                             </div>
-                            <div class="small-12 medium-6 columns">
+                            <div class="small-12 medium-12 columns">
                                  
                                     <!-- CMSContentStart:FivethImageSection -->
                                     <h3><img src="../images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" class="img-radius img-list" />3D Rendering</h3>
