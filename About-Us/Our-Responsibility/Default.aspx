@@ -57,34 +57,42 @@
                             <div class="small-6 medium-3 large-3 columns">
                                 
                                     <!-- CMSContentStart:FirstImage -->
-                                     <img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius full-width" width="155px" height="auto"/>
-                                    <a href="Clients.aspx" alt="Clients"><h3 class="responsability-link">Our Clients</h3></a>
+                                    <a href="Clients.aspx" alt="Clients">
+                                     <img src="../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius full-width img-hover" />
+                                    <h3 class="responsability-link">Our Clients</h3>
+                                   </a>
                                     <!-- CMSContentEnd:FirstImage -->
                                 
                             </div>
                              <div class="small-6 medium-3 columns">
                                  
                                     <!-- CMSContentStart:SecondImage -->
-                                     <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius full-width" width="155px" height="auto"/>
+                                    <a href="Employees.aspx" alt="Employees">
+                                     <img src="../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius full-width img-hover" />
                                     
-                                    <a href="Employees.aspx" alt="Employees"><h3 class="responsability-link">Our Employees</h3></a>
+                                    <h3 class="responsability-link">Our Employees</h3>
+                                    </a>
                                     <!-- CMSContentEnd:SecondImage -->
                                  
                             </div>
                              <div class="small-6 medium-3 columns">
                                  
                                     <!-- CMSContentStart:ThirdImage -->
-                                     <img src="../../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius full-width" width="155px" height="auto"/>
+                                    <a href="Communities.aspx" alt="Communities">
+                                     <img src="../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius full-width img-hover" />
                                     
-                                    <a href="Communities.aspx" alt="Communities"><h3 class="responsability-link">Our Communities</h3></a>
+                                    <h3 class="responsability-link">Our Communities</h3>
+                                    </a>
                                     <!-- CMSContentEnd:ThirdImage -->
                             </div>
                              <div class="small-6 medium-3 columns">
                                  
                                     <!-- CMSContentStart:FourthImage -->
-                                     <img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius full-width" width="155px" height="auto"/>
+                                    <a href="Environment.aspx" alt="Environment">
+                                     <img src="../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius full-width img-hover" />
                                     
-                                    <a href="Environment.aspx" alt="Environment"><h3 class="responsability-link">Our Environment</h3></a>
+                                    <h3 class="responsability-link">Our Environment</h3>
+                                   </a>
                                     <!-- CMSContentEnd:FourthImage -->
                             </div>
                         </div>
