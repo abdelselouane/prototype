@@ -229,6 +229,29 @@ a.smart-art h3:hover, a.smart-art h3:active{
   opacity: 0.5;
 }
 
+/* 3D RENDERING
+==============================
+*/
+
+img.top-right{
+  float: right;
+  margin: 0 40px 40px 40px;
+  height: auto;
+}
+
+img.bottom-left{
+  float: left;
+  margin: 20px;
+  height: auto;
+}
+
+img.bottom{
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+
 /* CONTENT PAGES
 ===============================
 */
@@ -408,6 +431,22 @@ ul.content-list li{
     }
     .headquarter-address {
           width: 100%;
+    }
+    img.top-right{
+      float: none;
+      margin: 20px auto;
+      height: auto;
+      display: block;
+    }
+
+    img.bottom-left{
+      float: none;
+      margin: 20px auto;
+      height: auto;
+      display:block;
+    }
+    .lower-left-image{
+        margin-top:20px;
     }
 }
 
