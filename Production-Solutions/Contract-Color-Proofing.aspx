@@ -41,51 +41,39 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum...<img src="../images/general/PS_proofing_1.png" alt="Contract Color Proofing" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+								<h2>Accuracy and attention to detail<img src="../images/general/PS_proofing_1.png" alt="Contract Color Proofing" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <p>Exceptional proofing is a critical step in our <a href="/Our-SmartArt-Difference/SmartArt.aspx">SmartArt&#8480;</a> process that requires talent, training and tools. We invest significantly in each of these areas to ensure we&rsquo;re always meeting and exceeding the expectations of our clients. Legal and regulatory compliance, grammar and spelling, adherence to brand standards &mdash; nothing gets past us.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
+                                <h3>Our proofing and routing procedures are customized to meet client internal approval, system and workflow requirements:</h3>
+								<ul class="list">
+									<li>Designed to ensure accuracy, reliability and repeatability</li>
+									<li>Leverage both expert &ldquo;human eyes&rdquo; and remote/on-site proofing system installation, calibration and management</li>
+									<li>A range of proofing tools are utilized along the way to achieve final approved contract proofs
+									<ul>
+										<li>Soft proofs via calibrated computer screens</li>
+										<li>Hard proofs, including:
+										<ul>
+											<li>Fast, low-cost inkjets and thermals</li>
+											<li>High-end halftone contract proofs and press targets</li>
+											<li>Concept proofs for design and creative (not color)</li>
+											<li>Content proofs for text, image, position, layout</li>
+											<li>Contract proofs for final approval signature</li>
+										</ul>
+										</li>
+									</ul>
+								</ul>
+								
+								<img src="../images/general/PS_proofing_2.png" alt="Contract Color Proofing" class="img-radius lower-left-image full-width "/>
+								<br>
+								<h3>Our QC3 Quality Assurance Program reduces costly errors and missed deadlines:</h3>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
+								<p><strong>QC1 (Pre-Flight)</strong><br>Review all incoming files for completeness and compliance with legal, regulatory, print and brand conventions</p>
+								<p><strong>QC2 (In-Flight)</strong><br>Multi-tiered quality checkpoints by each artist, operator, QA operator and Account Manager</p>
+								<p><strong>QC3 (Post-Flight)</strong><br>Point-by-point examination of the final proofs, films, plates and files against client and co-supplier specifications</p>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/PS_proofing_2.png" alt="Contract Color Proofing" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								
+								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

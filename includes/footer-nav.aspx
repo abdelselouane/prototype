@@ -1,11 +1,1 @@
-<!-- CMSMenuStart:FooterNav -->
-<ul class="inline-list left">
-	<li><a href="#" class="copyright">&copy; 2015 Phototype</a></li>
-	<li><a href="/Contact-Us.aspx">Contact Us</a></li>
-	<li><a href="/Quick-Links.aspx">Quick Links</a></li>
-	<li><a href="/Login.aspx">CMS Login</a></li>
-	<li><a href="/Privacy-Policy.aspx">Privacy Policy</a></li>
-	<li><a href="/Site-Map.aspx">Site Map</a></li>
-	<li><a href="http://www.gravityisgood.com">Visit Gravity</a></li>
-</ul>
-<!-- CMSMenuEnd:FooterNav -->
+<!-- CMSMenuStart:FooterNav --><ul class="inline-list left" id=""><li><a href="#" class="copyright " target="_parent">(c) 2015 Phototype</a></li><li extra="null"><a href="/Contact-Us/" target="_parent">Contact Us</a></li><li extra="null"><a href="/Quick-Links.aspx" target="_parent">Quick Links</a></li><li extra="null"><a href="/Login.aspx" target="_parent">CMS Login</a></li><li extra="null"><a href="/Privacy-Policy.aspx" target="_parent">Privacy Policy</a></li><li extra="null"><a href="/Site-Map.aspx" target="_parent">Site Map</a></li><li class="last "><a href="http://www.gravityisgood.com" target="_blank">Visit Gravity</a></li></ul><!-- CMSMenuEnd:FooterNav -->

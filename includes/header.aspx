@@ -6,10 +6,12 @@
 					<table id="table-search">
 						<tr>
 							<td>
-								<input type="search" id="input-search" />
+								<form name="search" method="get" action="/Search.aspx" style="margin: 0px; padding: 0px">
+									<input name="q" type="search" class="formfield" id="input-search" size="18" value='<%=request.querystring("q") %>'>
+								</form>
 							</td>
 							<td>
-								<a class="tiny button round" href="#">Let&rsquo;s Talk</a>
+								<a class="tiny button round" href="/Contact-Us/">Let&rsquo;s Talk</a>
 							</td>
 						</tr>
 					</table>

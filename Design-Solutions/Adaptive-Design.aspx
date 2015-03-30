@@ -38,54 +38,25 @@
 					<section id="main-content">
                         <div class="row">
                             <div class="left small-12 large-12 columns">
-                                
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum... <img src="../images/general/DS_design_adaptaion_1.png" alt="Design Adaptation" class="img-radius top-right-image full-width "/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
+                                <h2>Bringing brands to life with precision, impact and integrity<img src="../images/general/DS_design_adaptaion_1.png" alt="Design Adaptation" class="img-radius top-right-image full-width"/></h2>
+								<br>
+                                <p>The &ldquo;big idea&rdquo; is set. You and your target consumers love it. It has been approved for market launch...right now. How do you get it to aisle without sacrificing anything? Just call us...we&rsquo;ll take it from there.</p>
+								
+								<p>Our integrated approach to design adaptation ensures your vision is executed flawlessly, without losing any of its vitality. We leverage a proven process that expedites movement through the entire graphic supply chain and simplifies your life.</p>
+								
                                 <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
+                                    <li>Designs that are &ldquo;print feasible&rdquo; and exceed expectations</li>
+									<li>Lower &ldquo;downstream&rdquo; production costs</li>
+									<li>Accelerated speed to market</li>
+									<li>Optimized shelf appearance and impact</li>
                                 </ul>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/DS_design_adaptaion_2.png" alt="Design Adaptation" class="img-radius lower-left-image full-width"/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								<img src="../images/general/DS_design_adaptaion_2.png" alt="Design Strategic" class="img-radius lower-left-image full-width "/>
+								<br><br>
+								<p>No matter where your design was created, our <a href="http://www.gravityisgood.com/" target="_blank">Gravity</a> team is happy to handle the myriad of details required to take your inspiration to implementation. And we do it all in a way that makes your life easier and the finished product better.</p>
+                                <a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

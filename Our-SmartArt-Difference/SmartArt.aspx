@@ -42,7 +42,7 @@
                                 <!-- CMSContentStart:Main -->
                                 <h2>The intersection of art and science</h2>
 								
-                                <h3>Our ability to seamlessly integrate the <em>art of design</em> with the <em>science  of execution</em>, in a highly efficient and effective way, is the unique value  we bring to our <a href="javascript:;">clients</a>, everyday.</h3>
+                                <h3>Our ability to seamlessly integrate the <em>art of design</em> with the <em>science of execution</em>, in a highly efficient and effective way, is the unique value  we bring to our <a href="/About-Us/Clients.aspx">clients</a>, everyday.</h3>
 								<hr class="spacer">
                                 <img src="../images/general/smart-art.png" alt="Smart Art" class="full-width"/></p>
 								<hr class="spacer">
@@ -50,20 +50,15 @@
 								
 								<p>There is a better way. With our SmartArt&#8480; process, the difference is  radical in both process and outcome.</p>
 								
-								<ul class="list">
-								  <li><h3>We design with the end in mind</h3>
-									<p>Designs are developed and delivered  with upfront, intimate knowledge of the &ldquo;downstream&rdquo; execution process. As a result, your design and  production file is <em>always </em>constructed  correctly from the very beginning,  so it can be reliably and accurately reproduced later.</p></li>
-								</ul>
+								<h3>We design with the end in mind</h3>
+								<p>Designs are developed and delivered  with upfront, intimate knowledge of the &ldquo;downstream&rdquo; execution process. As a result, your design and  production file is <em>always </em>constructed  correctly from the very beginning,  so it can be reliably and accurately reproduced later.</p>
 								
-								<ul type="disc">
-								  <li><h3>We execute with scientific precision</h3><p>Original design intent is meticulously  maintained by leveraging tools like digital design files, print-ready <a href="javascript:;">production art</a> and <a href="javascript:;">electronic  assembly</a>, proprietary <a href="javascript:;">print services</a>, <a href="javascript:;">color management</a> and press-side  assistance, all facilitated by a &ldquo;one version of the truth&rdquo; process.  Predictable, reliable results every step of the way. </p>
-								  </li>
-								</ul>
+								<h3>We execute with scientific precision</h3>
+								<p>Original design intent is meticulously  maintained by leveraging tools like digital design files, print-ready <a href="/Production-Solutions/Production-Art.aspx">production art</a> and <a href="/Production-Solutions/Electronic-Assembly.aspx;">electronic assembly</a>, proprietary <a href="/Production-Solutions/Print-Services.aspx">print services</a>, <a href="/Management-Solutions/Color-Management.aspx">color management</a> and press-side assistance, all facilitated by a &ldquo;one version of the truth&rdquo; process.  Predictable, reliable results every step of the way.</p>
 								
                                 <p>Realize the full potential of SmartArt&#8480; by engaging us in a comprehensive, start-to-finish  customized solution set for your brand or by implementing any one of our  solutions in conjunction with your current processes. Either way, we&rsquo;re  confident that you&rsquo;ll see dramatic results.</p>
 
-								<a href="javacript:;" class="tiny button round">Let&rsquo;s Talk</a>
-                                
+								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>                             
                                <!-- CMSContentEnd:Main -->
                                 
                             </div>

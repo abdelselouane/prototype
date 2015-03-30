@@ -48,7 +48,7 @@
 								<label for="password">Password:
 									<input name="password" type="password" id="password" runat="server" width="200" />
 								</label>
-								<p><button id="login" class="button tiny round">Login</button></p>
+								<p><button id="login" class="button round">Login</button></p>
 							</div>
 						</div>
 					</section>

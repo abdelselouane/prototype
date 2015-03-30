@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>Our Responsibility Communities</h1>
+							<h1>Our Responsibility | Communities</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -41,51 +41,29 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum...<img src="../../images/general/Our_Responsibility_communities_1.png" alt="Communities" class="img-radius top-right-image full-width "/></h2>
+                                <h2>Part of the community &ndash; Compassionate. Connected. Committed.<img src="../../images/general/Our_Responsibility_communities_1.png" alt="Communities" class="img-radius top-right-image full-width "/></h2>
+                                <br>
+                                <p>We&rsquo;re an active, engaged neighbor who strives to make a difference in the communities around us. We link employee volunteers with important social programs that positively impact youth, their families, and their living environments.</p>
+								
+								<p>In the spirit of service to others, employees are encouraged to take up to one day a year, with pay, to volunteer at a sponsored, non-profit organization. Some of our current partners include:</p>
                                 
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-                                
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
+                                <h3>Ronald McDonald House</h3>
+								<p>Providing a supportive home-away-from-home for families and their children who are receiving medical treatment at Cincinnati Children&rsquo;s Hospital or other area hospitals.</p>
+								
+                                <h3>Lighthouse Youth Services</h3>
+								<p>Advancing the dignity and well-being of children, youth and families in need and encouraging good 	citizenship, responsible behavior and self-reliance.</p>
+								
+                                <h3>Habitat for Humanity</h3>
+								<p>Eliminating substandard housing locally and worldwide through constructing, rehabilitating and preserving 	homes.</p>
+								
+                                <h3>Cincinnati Parks Association</h3>
+								<p>Maintaining numerous urban parks and green spaces throughout the city, including cleaning up wooded 	areas, planting flowers and trees and building bridges/trails.</p>
+								<img src="../../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius lower-left-image full-width"/>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
+								<br>
+								<p>We also lend support to programs that are important to our clients, including Boys & Girls Clubs of America, the Wounded Warrior Project, The Salvation Army, and The United Way. Additionally, our employees give generously of their own time, talent and treasure to support local programs that may have personal meaning and impact.</p>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../../images/general/Our_Responsibility_communities.png" alt="Communities" class="img-radius lower-left-image full-width"/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								<p>By harnessing the energy and enthusiasm of our entire Phototype team, we make a vital connection and contribution to our communities.</p>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

@@ -42,14 +42,15 @@
                                 <h2 class="large-text margin-top-20px">It's not just what we do...</h2>   
                                 <h3 class="large-text">it's how we do it, and it's personal.</h3>
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+									Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="Clients.aspx">clients</a>, our <a href="Employees.aspx">employees</a>, our <a href="Communities.aspx">communities</a> and our <a href="Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.
+									Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="Clients.aspx">clients</a>, our <a href="Employees.aspx">employees</a>, our <a href="Communities.aspx">communities</a> and our <a href="Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.
                                 </p>
                                 <ul class="content-list">    
-                                    <li>more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li> 
-                                    <li>more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li> 
-                                    <li>more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li>
+                                    <li>It&rsquo;s a difference you will see and feel when you walk into our offices</li> 
+                                    <li>It&rsquo;s reflected in the solutions and services we provide, and the way we work together</li> 
+                                    <li>It&rsquo;s at the core of how we&rsquo;ve been able to thrive as a family-owned business for nearly 100 years</li>
                                 </ul>
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h3>Learn more about how we put our sense of responsibility into practice every day:</h3>
                                <!-- CMSContentEnd:SectionTop -->
                             </div>
                         </div>

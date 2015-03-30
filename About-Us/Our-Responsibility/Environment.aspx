@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>Our Responsibility Environment</h1>
+							<h1>Our Responsibility | Environment</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -41,52 +41,36 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum...<img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2 class="large-text margin-top-20px">Reducing our environmental footprint, one step at a time<img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <p>We have a responsibility to minimize our environmental impact, and are actively engaged in numerous operational programs and industry strategic initiatives. Below are just a few of examples:</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
+                                <h3 class="large-text">Our Operational Programs</h3>
+								
+								<h2>Reduce</h2>
+								
+								<h3>Powering down our energy utilization</h3>
+								<p>Every day, we take steps to reduce our energy consumption from our choice of light fixtures and bulbs, to installing light sensors, to how we connect our servers, to our choice of computer monitors and our policy on screen savers/auto-sleep functionality.</p>
+								
+								<h3>Leveraging technology</h3>
+								<p>Our electronic collaboration, proofing, and workflow tools dramatically reduce the need for paper order tickets and proofs. This decreases consumption of ink/toner, printer electricity and paper. Eliminating paper proofs reduces transportation emissions and the need to create analogue outputs like film.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
+								<h2>Reuse</h2>
+								
+								<h3>A second use for shipping materials</h3>
+								<p>Cover sheets from inbound plate material are re-used to protect film in storage. Foam sheets, bubble wrap and peanuts from incoming shipments are reused to protect outbound shipments. The white cardboard used to package incoming plates is actually transformed into children&rsquo;s art projects after donation to a local day care.</p>
+								
+								<h3>Recovering solvent and waste while creating new energy</h3>
+								<p>Used solvent, condensate and other flexo-plate production materials, along with the shipping containers 	they arrive in, are recovered, restored and repurposed, resulting in both waste reduction and the creation 	of new energy that fuels power plants.</p>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
+								<h2>Recycle</h2>
+								
+								<h3>Turning a negative into a positive</h3>
+								<p>All used film negatives are returned to a silver restoration plant.</p>
+								
+								<h3>Cartridges-to-Cash for School and Office Supplies</h3>
+								<p>Empty toner and printer cartridges are collected and recycled through school programs or directly with Staples&reg;, generating coupons for savings on school and office supply purchases.</p>
 
-                                <p>
-                                     <img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-                                
                                 <!-- CMSContentEnd:Main -->
                                 
                             </div>

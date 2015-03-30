@@ -39,17 +39,21 @@
                         <div class="row">
                             <div class="small-12 large-12 columns">
                                 <!-- CMSContentStart:SectionTop -->
-                                <h2 class="large-text">It's not just what we do, it's how we do it, and it's personal.</h2>   
-                                <p class="margin-top-20px">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                </p>
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
-                                </p>
+                                <h2 class="large-text">From the big ideas to the smallest details<img src="../images/general/DS_design_adaptaion_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
+								<br>
+                                <p><a href="http://www.gravityisgood.com/" target="_blank">Gravity</a>, our brand and packaging design agency, starts with your goals and a blank piece of paper. Then, we immerse ourselves within your product or service category; we walk in your target consumer&rsquo;s shoes to fully understand their shopping mindset, including wants and needs. We identify opportunities to link those wants, needs and desires to the brand&rsquo;s promise, position, and core values. It&rsquo;s this robust strategic process that enables us to deliver engaging designs that drive shoppers to make a purchase. <a href="/Design-Solutions/Strategic-Design.aspx">Strategic design</a> is our core expertise and where we truly shine.</p>
+								
+                                <p>However, bringing &ldquo;the big idea&rdquo; to life is only the beginning. The smallest design details must then be managed before you&rsquo;re able to realize that vision across an entire product line. That&rsquo;s where we deliver incremental value...<a href="/Design-Solutions/Adaptive-Design.aspx">adaptive design</a> extends your established visual identity across an entire portfolio and every touch-point. Ensuring brand continuity at every opportunity by leveraging a linear, transparent and hassle-free process that brings order to chaos, deploys faster, and reduces costly rework.</p>
+								
+								<img src="../images/general/DS_design_strategic.png" alt="Communities" class="img-radius lower-left-image full-width"/>
+								<br><br>
+								<p>Whether you&rsquo;re looking for that &ldquo;big idea&rdquo; or you already have it, Gravity has the team in place to ensure it moves seamlessly from design to print-ready art &ndash; consistently delivering the brand integrity, intent, and impact you expect... across every item, and at every consumer touch point.</p>
+								
+								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                <!-- CMSContentEnd:SectionTop -->
                             </div>
                         </div>
-                        <div class="row">
+                        <%--<div class="row">
                             <div class="small-12 medium-6 columns">
                                 
                                     <!-- CMSContentStart:FirstImageSection -->
@@ -68,7 +72,7 @@
                                     <!-- CMSContentEnd:SecondImageSection -->
                                  
                             </div>
-                        </div>
+                        </div>--%>
 					</section>
 				</div>
 			</div>

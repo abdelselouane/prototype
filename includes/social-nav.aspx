@@ -1,8 +1,1 @@
-<!-- CMSMenuStart:SocialNav -->
-<ul class="inline-list right">
-	<li><a href="https://www.linkedin.com/company/76453?trk=tyah&trkInfo=idx%3A2-1-3%2CtarId%3A1426626227070%2Ctas%3APhototype" target="_blank"><img src="/images/social/linkedin.png" /></a></li>
-	<li><a href="https://www.facebook.com/PhototypeSmartArt" target="_blank"><img src="/images/social/facebook.png" /></a></li>
-	<li><a href="https://twitter.com/phototypeco" target="_blank"><img src="/images/social/twitter.png" /></a></li>
-	<li><a href="https://instagram.com/phototypeco/" target="_blank"><img src="/images/social/instagram.png" /></a></li>
-</ul>
-<!-- CMSMenuEnd:SocialNav -->
+<!-- CMSMenuStart:SocialNav --><ul class="inline-list right" id=""><li image="/images/social/linkedin.png" imageh="/images/social/linkedin.png" images="/images/social/linkedin.png"><a href="https://www.linkedin.com/company/76453?trk=tyah&amp;trkInfo=idx%3A2-1-3%2CtarId%3A1426626227070%2Ctas%3APhototype" target="_blank"><img src="/images/social/linkedin.png"></a></li><li image="/images/social/facebook.png" imageh="/images/social/facebook.png" images="/images/social/facebook.png"><a href="https://www.facebook.com/PhototypeSmartArt" target="_blank"><img src="/images/social/facebook.png"></a></li><li image="/images/social/twitter.png" imageh="/images/social/twitter.png" images="/images/social/twitter.png"><a href="https://twitter.com/phototypeco" target="_blank"><img src="/images/social/twitter.png"></a></li><li class="last " image="/images/social/instagram.png" imageh="/images/social/instagram.png" images="/images/social/instagram.png"><a href="https://instagram.com/phototypeco/" target="_blank"><img src="/images/social/instagram.png"></a></li></ul><!-- CMSMenuEnd:SocialNav -->

@@ -10,6 +10,15 @@
 <!--#include virtual="/includes/font.aspx"-->
 <!--#include virtual="/includes/analytics.aspx" -->
 <script src="/js/vendor/modernizr.js"></script>
+<script>
+(function() {
+	var cx = '014751571039888081506:9arqd9m68wc';
+	var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+	gcse.src = (document.location.protocol == 'https' ? 'https:' : 'http:') +
+	  '//www.google.com/cse/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+})();
+</script>
 </head>
 
 <body id="generic">
@@ -36,11 +45,8 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-						<!-- CMSContentStart:Main -->
-						<h2>H2 Tag</h2>
-						<h3>H3 Tag</h3>
-						<p>Start content here.</p>
-						<!-- CMSContentEnd:Main -->
+						<h2>Search Results</h2>
+  						<gcse:search gname="search" linkTarget="_self"></gcse:search>
 					</section>
 				</div>
 			</div>
@@ -52,6 +58,7 @@
 <script src="/js/vendor/jquery.js"></script> 
 <script src="/js/foundation.min.js"></script>
 <script src="/js/main.js"></script>
+<link rel="stylesheet" href="/css/search.css" />
 <script>
 	jQuery(document).foundation();
 </script>

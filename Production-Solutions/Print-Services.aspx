@@ -41,52 +41,35 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                
-                                <h2>Lorem Ipsum...<img src="../images/general/PS_Print_tools_1.png" alt="Print Services" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+								<h2>Precision tools that deliver maximum impact<img src="../images/general/PS_Print_tools_1.png" alt="Print Services" class="img-radius top-right-image full-width"/></h2>
+								
+                                <h3>Our digital print tools produce the most accurate, eye-catching graphics imaginable. We offer a broad range of solutions &mdash; conventional, innovative and proprietary.</h3>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
+								<p><strong>Conventional</strong> and direct-to-digital  photopolymer plates for narrow-, mid- and wide-web flexo presses</p>
+								  <ul>
+									<li>52&quot; x 80&quot; Conventional Solvent</li>
+									<li>50&quot; x 80&quot; Digital Solvent</li>
+									<li>42&quot; x 60&quot; Digital FAST<sup>&reg;</sup> Thermal</li>
+									<li>Dupont<sup>&reg;</sup> Certified Trade Shop</li>
+								  </ul>
+								<p><strong>Innovative</strong> plating systems offered  through our collaboration with leading industry partners</p>
+								  <ul>
+									<li><em>DuPont<sup>&reg;</sup>  Cyrel<sup>&reg;</sup> DigiFlow</em> &mdash; delivers improved solid ink density, 1:1 image  reproduction, and hybrid flat top dots, without additional platemaking steps</li>
+									<li><em>MacDermid  LUX</em> &mdash; unique dot profile that expands the available tonal range and  improves print quality, consistency and efficiency</li>
+									<li><em>Kodak  Flexcel NX</em> &mdash; the latest in digital flexo plate-making technology. They  minimize waste and maximize efficiency, while delivering print quality that  rivals offset and rotogravure</li>
+									<li><em>Pixel+</em> &mdash; further enhances the print capabilities of <em>DuPont<sup>&reg;</sup> Cyrel<sup>&reg;</sup> DigiFlow, MacDermid LUX</em> and flat-top dot workflows</li>
+								  </ul>
+								<img src="../images/general/PS_print_tools2.png" alt="Print Services" class="img-radius lower-left-image full-width "/>
+								<br>
+								<p><strong>Proprietary</strong> solutions from Phototype</p>
+								<ul>
+								  <li><em>NuDot<sup>&reg;</sup></em> &mdash; a patented imaging technology that improves flexo print quality and press  performance across a wide variety of challenging substrates. Delivers richer,  more captivating images than round dot screening.</li>
+								  <li>The <u>only</u> technology solution to address dot gain and ink lay across the  entire tonal range...from the darkest solids to the finest highlights</li>
+								  <li>Delivers  extraordinary accuracy and control</li>
+								  <li><em>HDXtreme<sup>&reg;</sup></em> &mdash;<strong> </strong>these plates are designed for  high-performance printing. They are optimized for both solid and tonal  screening, leveraging the newest highlight and surface technologies. Expanded  tone reproduction, brighter highlights, and sharper text are delivered at  faster press speeds.<strong></strong></li>
+								</ul>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
-
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/PS_print_tools2.png" alt="Print Services" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

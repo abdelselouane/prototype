@@ -41,52 +41,54 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                    <h2>Lorem Ipsum...<img src="../images/general/About_us_clients_1.png" alt="client woman" class="img-radius top-right-image full-width "/></h2>
-                                
-                                    <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2>We are proud  partners to a number of leading consumer packaged goods companies, retailers,  printers and converters.<img src="../images/general/About_us_clients_1.png" alt="client woman" class="img-radius top-right-image full-width "/></h2>
+                                <br>
+                                <h3>Consumer Packaged Goods companies</h3>
 
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
+									Abbott <br>
+									Church &amp; Dwight <br>
+									Hershey<br>
+									J.M. Smucker Company<br>
+									Johnson &amp; Johnson<br>
+									Kimberly-Clark<br>
+									Pepsi<br>
+									Pinnacle Foods Inc.<br>
+									Post Foods <br>
+									Procter &amp; Gamble<br>
+									Smithfield Farmland<br>
+									Sunny Delight Beverages Co.<br>
+									Welch&rsquo;s
+								</p>
 
+                                <h3>Retailers</h3>
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+									Aldi<br>
+									Bed Bath  &amp; Beyond<br>
+									Kroger<br>
+									Meijer<br>
+									Walmart
                                 </p>
                                 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
-
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
+                                <h3>Printers & Converters</h3>
+								
+								<p>
+									Amcor <br>
+									Bemis<br>
+									Berry Plastics<br>
+									Burrows <br>
+									Clopay Plastics <br>
+									Interflex Group <br>
+									Packaging Specialties<br>
+									Printpack<br>
+									Trinity Packaging Corp
+								</p>
 
                                 <p>
                                      <img src="../images/general/About_us_clients_2.png" alt="Welcome man" class="img-radius lower-left-image full-width"/>
-                                    <h3>Lorem Ipsum ...</h3>
 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
                                 </p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-                                
                                 <!-- CMSContentEnd:Main -->
                                 
                             </div>

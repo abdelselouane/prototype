@@ -39,12 +39,9 @@
                         <div class="row">
                             <div class="small-12 large-12 columns">
                                 <!-- CMSContentStart:SectionTop -->
-                                <h2 class="large-text">It's not just what we do, it's how we do it, and it's personal.</h2>   
+                                <h2 class="large-text">Informed execution bridges the gap between <br class="hide-break">idea and aisle</h2>   
                                 <p class="margin-top-20px">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                </p>
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                                    Integral to our <a href="/Our-SmartArt-Difference/SmartArt.aspx">SmartArt&#8480;</a> process, our production solutions are technologically efficient, fully integrated, precise, and maintain your design vision all the way from idea to aisle &ndash; regardless of the printing process, substrate or printer. 
                                 </p>
                                <!-- CMSContentEnd:SectionTop -->
                             </div>
@@ -54,7 +51,7 @@
                                 
                                     <!-- CMSContentStart:FirstImageSection -->
                                      <h3><img src="../images/general/PS_PA_1.png" alt="Production Art" class="img-radius img-list" />Production Art</h3>
-                                    <p class="text-adjust"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                    <p class="text-adjust">We&rsquo;re experts at transitioning designs to die-line-specific, color-accurate, archive-quality electronic files.
                                     </p> 
                                     <!-- CMSContentEnd:FirstImageSection -->
                                 
@@ -63,8 +60,7 @@
                                  
                                     <!-- CMSContentStart:SecondImageSection -->
                                     <h3><img src="../images/general/PS_EA_1.png" alt="Electronic Assembly" class="img-radius img-list" />Electronic Assembly</h3>
-                                    <p class="text-adjust"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
+                                    <p class="text-adjust">Print-ready electronic files and high-resolution separations for offset, gravure and flexo plate production are created to exact printing and substrate specifications.</p>
                                     <!-- CMSContentEnd:SecondImageSection -->
                                  
                             </div>
@@ -72,25 +68,33 @@
                                  
                                     <!-- CMSContentStart:ThirdImageSection -->
                                     <h3><img src="../images/general/PS_proofing_1.png" alt="Contract Color Proofing" class="img-radius img-list" />Contract Color Proofing</h3>
-                                    <p class="text-adjust"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
+                                    <p class="text-adjust">Legal and regulatory compliance, grammar and spelling, adherence to brand standards, etc. &mdash; nothing gets past us.</p>
                                     <!-- CMSContentEnd:ThirdImageSection -->
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
                                     <!-- CMSContentStart:FrouthImageSection -->
                                     <h3><img src="../images/general/PS_Print_tools_1.png" alt="Print Services" class="img-radius img-list" />Print Services</h3>
-                                    <p class="text-adjust"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
+                                    <p class="text-adjust">From conventional plates to our revolutionary and proprietary NuDot<sup>&reg;</sup> and HDXtreme plates, our print tools produce the most accurate, eye-catching graphics imaginable.</p>
                                     <!-- CMSContentEnd:FourthImageSection -->
                             </div>
                             <div class="small-12 medium-12 columns">
                                  
                                     <!-- CMSContentStart:FivethImageSection -->
                                     <h3><img src="../images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" class="img-radius img-list" />3D Rendering</h3>
-                                    <p class="text-adjust"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
+                                    <p class="text-adjust">Bring your packaging and displays to life long before mock-ups or printed packages can be photographed &mdash; with greater accuracy, lower cost and less hassle.</p>
                                     <!-- CMSContentEnd:FivethImageSection -->
+                            </div>
+                        </div>
+						<div class="row">
+                            <div class="small-12 medium-12 columns">
+									<br>
+                                    <!-- CMSContentStart:SectionBottom -->
+                                    <h3>Each of these can be leveraged on a stand-alone basis, as part of an end-to-end solution, or anywhere in between. The choice is yours. Where can we help you?</h3>
+									<br>
+									<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
+                                    <!-- CMSContentEnd:SectionBottom -->
+								</p>
                             </div>
                         </div>
 					</section>

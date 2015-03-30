@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>Our Responsibility Clients</h1>
+							<h1>Our Responsibility | Clients</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -41,51 +41,27 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                     
-                                <h2>Lorem Ipsum...<img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2>Your success is the measure of our success<img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <h3>Integrity First</h3>
+								
+								<p>We aspire to be the trusted advisor you rely on for superior graphic solutions. That starts with honesty, respect, fairness and absolute client confidentiality. These are not just words at Phototype...they are principles that are embraced and practiced in our daily interactions with each other, our clients and our supplier partners.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
+                                <h3>Client Focus</h3>
+								
+								<p>It&rsquo;s really about you. You won&rsquo;t have to change for us...we adapt ourselves to fit the way you do business. We are relentless in our pursuit of exceeding your expectations. We&rsquo;re big enough to meet your needs, small enough to be nimble, and are in it for the long haul. As your strategic partner, we offer highly personalized service and measure our success through your success.</p>
+								
+								<img src="../../images/general/Our_Responsibility_Clients_2.png" alt="Clients" class="img-radius lower-left-image full-width "/>
+								<br>
+                                <h3>Quality Commitment</h3>
+								
+								<p>We are passionate about delivering the highest quality products and services to you. Our commitment to quality is demonstrated every day by:</p>
                                 <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
-
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../../images/general/Our_Responsibility_Clients_2.png" alt="Clients" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+									<li>Investing in technology, training and education that facilitates, elevates and accelerates our industry leadership in flawless execution</li>
+									<li>Leveraging continuous improvement tools such as Six Sigma, Kaizen, and Lean</li>
+									<li>Measuring, reporting and acting upon Key Performance Indicators</li>
+									<li>Communicating our quality policies, both formally and informally</li>
+								</ul>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

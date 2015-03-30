@@ -41,51 +41,39 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum... <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
+                                <h2>Exceptional performance starts with exceptional employees<img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <h3>Investing In Our People</h3>
+								
+								<p>Attracting, developing, empowering and retaining the vey best talent helps us achieve our goals and lead our clients, and the industry, to even higher levels of success and innovation.</p>
+								
                                 <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
+									<li>We provide a safe, respectful, inclusive and ethical workplace.</li>
+									<li>Our high-performance work environment offers strong opportunities for employee development, professional growth and competitive compensation.</li>
+									<li>Our employee turnover is consistently less than 2% per year.</li>
+									<li>We enjoy working together, having fun, and can often be found celebrating birthdays, weddings, holidays, or just the end of the week with ice cream, hot dogs or other tasty treats!</li>
+									<li>We were recognized as one of <em>The Enquirer Media Top Workplaces for 2014</em>.</li>
+								</ul>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
+                                <h3>Health &amp; Safety</h3>
+								
+								<p>Our employees are critical to our success, and we care for them like family:</p>
+								
+								<ul class="list">
+									<li>Our facilities meet or exceed OSHA and other workplace standards for employee safety, accessibility and training.</li>
+									<li>We&rsquo;re active members of the ISO/TC130 Working Group, which is standardizing terminology, test methods and specifications across the printing and graphic technology supply chain, including ergonomics and safety.</li>
+									<li>We focus on employee health, wellness and prevention by offering an on-site fitness center, bringing mobile mammography, </li>
+								</ul>
+								
+                                <h3>Nurturing Innovation</h3>
 
-                                <p>
-                                     <img src="../../images/general/Our_Responsibility_Employees_2.png" alt="Employees" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
+								<p>Our open, friendly, collaborative environment and the &ldquo;can do&rdquo; attitude of our people inspires creativity and sparks new ideas. This is supported by a strong financial commitment to innovation that includes reinvesting a generous portion of our annual revenue into process and technology R&amp;D and commercializing a significant, new solution at least every 24 months.</p>
 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								<img src="../../images/general/Our_Responsibility_Clients_2.png" alt="Clients" class="img-radius lower-left-image full-width "/>
+								<br>
+                                <h3>Paying It Forward</h3>
+								
+								<p>As we head into our 100th year as a family-owned, independent company, we&rsquo;re soundly capitalized and remain debt-free. We look forward to continuing to service our clients and providing our employees with rewarding, professional opportunities for generations to come.</p>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

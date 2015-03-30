@@ -40,52 +40,25 @@
                             <div class="left small-12 large-12 columns">
                                 
                                 <!-- CMSContentStart:Main -->
-                                
-                                <h2>Lorem Ipsum... <img src="../images/general/PS_EA_1.png" alt="Electronic Assembly" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2>Adhering to exact print specifications<img src="../images/general/PS_EA_1.png" alt="Electronic Assembly" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <p>Print-ready electronic files and high-resolution separations for offset, gravure and flexo plate production are created to exact printing and substrate specifications through our <a href="/Our-SmartArt-Difference/SmartArt.aspx">SmartArt&#8480;</a> process &mdash; incorporating trap, screen, step/repeat patterns, form layout, and other production requirements unique to each project, printer and client.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
-
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/PS_EA_2.png" alt="Electronic Assembly" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+								<ul class="list">
+									<li>Expert form layout for sheet, web, commercial and packaging applications</li>
+									<li>Image distortion for shrink wraps, sleeves, and contour labeling</li>
+									<li>Fingerprinting and press curves</li>
+									<li>Direct coordination with print supplier</li>
+									<li>Providing press-ready final files to printers:</li>
+									<li><ul>
+										<li>Fully stepped plate-ready Lens / Tiffs</li>
+										<li>Fully stepped files for continuous sleeves &ndash; ITR / LSR</li>
+										<li>High-resolution, press-ready PDFs</li>
+										<li>Any native files &ndash; Artpro, Esko, Illustrator</li>
+									</ul></li>
+								</ul>
+								<!--<img src="../images/general/PS_EA_2.png" alt="Electronic Assembly" class="img-radius lower-left-image full-width "/>-->
+								<a href	="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

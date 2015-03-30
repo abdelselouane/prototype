@@ -41,51 +41,25 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum...<img src="../images/general/DS_design_strategic.png" alt="Design Strategic" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
-
-                                <p> 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
+                                <h2>Delivered with creativity, process, and practicality<img src="../images/general/DS_design_strategic.png" alt="Design Strategic" class="img-radius top-right-image full-width"/></h2>
+								<br>
+                                <p>Strategic design of consumer packaging and related retail communications is a delicate balancing act. It requires sound brand strategy, strong design principles and the ability to identify what is most meaningful to your target consumer. </p>
+								
+								<p>The key is to find the right balance between the brand offering, beliefs and principles &mdash; the consumer&rsquo;s wants, needs and values &mdash; and the white spaces within the category where we can visualize these factors in a way that is unique, engaging and memorable. A way to create designs that support the brand essence, enhance the shopping experience and ultimately drive purchase.</p>
+								
+								<p>In short, design is problem solving and that problem is not solved until the design makes its way from the shelf and into the heart of a consumer. Deep knowledge of the print and production process enables us to create solutions without concessions or complications... a unique right-brain/left-brain approach that&rsquo;s reliable and repeatable. Our Gravity design team delivers breakthrough concepts that look as good on shelf as they did when you first saw them.</p>
+								<img src="../images/general/DS_design_strategic_2.png" alt="Design Strategic" class="img-radius lower-left-image full-width "/>
+								<br><br>
+								<p>It&rsquo;s this seamless integration of design and prepress expertise that makes working with us such a unique and rewarding experience. For our clients, this means:</p>
                             
                                 <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
+                                    <li>Designs that are &ldquo;print feasible&rdquo; and exceed expectations</li>
+									<li>Lower &ldquo;downstream&rdquo; production costs</li>
+									<li>Accelerated speed to market</li>
+									<li>Optimized shelf appearance and impact</li>
                                 </ul>
 
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/DS_design_strategic_2.png" alt="Design Strategic" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+                                <a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

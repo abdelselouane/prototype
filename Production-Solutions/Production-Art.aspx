@@ -41,51 +41,24 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2>Lorem Ipsum...<img src="../images/general/PS_PA_1.png" alt="Production Art" class="img-radius top-right-image full-width"/></h2>
-                                
-                                <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h3>
+                                <h2>Always built to the highest standards<img src="../images/general/PS_PA_1.png" alt="Production Art" class="img-radius top-right-image full-width"/></h2>
+                                <br>
+                                <p>How a piece of production art is constructed is a critical step that can make all the difference in your end result. We&rsquo;re experts at transitioning designs to die-line-specific, color-accurate, archive-quality electronic files that are ready for <a href="Electronic-Assembly.aspx">electronic assembly</a> and contract <a href="Contract-Color-Proofing.aspx">color proofing</a>.</p>
 
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                </p>
-                                
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <ul class="list">
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">design solution</a> text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">production solution</a> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                    <li><span class="italic">Lorem Ipsum is simply dummy ...</span> <a href="#">managment solution</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
-                                </ul>
-
-                                <h3>Lorem Ipsum...</h3>
-                            
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty <a href="#">Smart Art<sup>sm</sup></a> Process.</p>
-
-                                <p>
-                                     <img src="../images/general/PS_PA_2.png" alt="Production Art" class="img-radius lower-left-image full-width "/>
-                                    <h3>Lorem Ipsum ...</h3>
-
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and <a href="#">clients</a> typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
-
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make uor propierty Process.
-                                </p>
-                        
-                                <p>
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                </p>
+                                <p>Leveraging our unique <a href="/Our-SmartArt-Difference/SmartArt.aspx">SmartArt&#8480;</a> process, our production art:</p>
+								<ul class="list">
+									<li>Can electronically embed every detail, from design to print tool production &ndash; including printer&rsquo;s marks, converting eye marks, color bars, color palettes for Extended Gamut Ink Systems Control (if applicable), and job tickets with manufacturing data compatible with SAP, ERP, and MIS </li>
+									<li>Includes high-resolution bar codes that have been verified, special visual effects, photography and expertly retouched images</li>
+									<li>Is optimized to exact substrate, ink and print process specifications</li>
+									<li>Is ready to be trapped, stepped and repeated, screened and output to exact printing press requirements</li>
+									<li>Is easily stored, retrieved and repurposed </li>
+									<li>Incorporates file-naming conventions for multiple versions, downstream vendors and archival systems, including an archived record for version comparison</li>
+									<li>Works with a variety of hardware and software platforms </li>
+									<li>Utilizes Ghent PDF Workgroup specs</li>
+									<li>Meets legal and regulatory requirements</li>
+								</ul>
+								<!--<img src="../images/general/PS_PA_2.png" alt="Production Art" class="img-radius lower-left-image full-width "/>-->
+								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->
                                 

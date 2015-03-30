@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>H1 Tag</h1>
+							<h1>Digital Asset Management</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -37,9 +37,19 @@
 				<div class="small-12 columns">
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
-						<h2>H2 Tag</h2>
-						<h3>H3 Tag</h3>
-						<p>Start content here.</p>
+						<h2>All brand assets at your fingertips</h2>
+						<br>
+						<p>Our Digital Asset Management (DAM) system is a powerful, intuitive, web-based relational database for storing, retrieving and distributing all your approved brand assets. It&rsquo;s also configured on an enterprise-strength SQL database, a secure multi-server platform.</p>
+						
+						<ul>
+							<li>Central location for final illustrations, photography, die lines, text files, production art, renders, PDFs, etc.</li>
+							<li>Client-specific file folder organization</li>
+							<li>Customized, multi-level searches by brand, product, date, tracking number, file type, etc.</li>
+							<li>Shopping cart feature allows you to instantly download or email files</li>
+							<li>Automatic, continuous back-ups to protect your most valuable assets</li>
+						</ul>
+						
+						<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
 						<!-- CMSContentEnd:Main -->
 					</section>
 				</div>

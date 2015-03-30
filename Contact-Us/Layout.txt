@@ -1,0 +1,30 @@
+﻿PHOTOTYPE CONTACT US FORM
+-------------------------------------
+
+Talk About: $TALKABOUT$
+
+Other: $TALKABOUTOTHER$
+
+-------------------------------------
+
+First Name: $FIRSTNAME$
+
+Last Name: $LASTNAME$
+
+Email: $EMAIL$
+
+Phone: $PHONE$
+
+Title: $TITLE$
+
+Company: $COMPANY$
+
+City: $CITY$
+
+State: $STATE$
+
+Zip: $ZIP$
+
+Country: $COUNTRY$
+
+Comments: $COMMENTS$

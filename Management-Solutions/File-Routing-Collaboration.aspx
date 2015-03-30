@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>H1 Tag</h1>
+							<h1>File Routing & Collaboration</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -37,9 +37,26 @@
 				<div class="small-12 columns">
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
-						<h2>H2 Tag</h2>
-						<h3>H3 Tag</h3>
-						<p>Start content here.</p>
+						<h2>Enhance visibility, accuracy and collaboration </h2>
+						<br>
+						<p>Our File Routing &amp; Collaboration (FRC) is a synchronized system that  allows you to route, review, compare, annotate, and approve detailed proofs in real-time from your web browser. </p>
+						<ul class="list">
+						  <li>Developed in close cooperation with Kodak, we have created a customizable solution that is truly best in class...and continuously updated and upgraded to stay that way.</li>
+						</ul>
+						<ul class="list">
+						  <li>Our robust system significantly increases speed-to-market, while reducing errors and cost. Other key benefits:</li>
+						  <ul type="circle">
+							<li>All artwork is stored on and viewed from our FRC server...the piece of art that everyone sees is the most recent version and the only one available, creating &ldquo;one version of the truth&rdquo;</li>
+							<li>Client-defined permission levels are established by the FRC administrator</li>
+							<li>Kodak SmartReview&trade;, embedded in FRC, allows concurrent viewing and collaboration by multiple users</li>
+							<li>Comments are noted and archived, creating an audit trail of the entire approval process </li>
+							<li>Allows for color-accurate review using calibrated monitors</li>
+							<li>Reduces the time, money, and opportunity for error associated with printing and routing hardcopy proofs</li>
+						  </ul>
+						</ul>
+						<p>Working brand assets &ndash; including digital images, color specifications, and die lines &ndash; are also stored in virtual custom &ldquo;libraries&rdquo;. This centralized repository provides a single, self-serve point of entry for all members of the supply chain to access the latest versions of the graphic elements used in the design and production of packaging and other print materials. This keeps everyone working from the same playbook.</p>
+						
+						<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
 						<!-- CMSContentEnd:Main -->
 					</section>
 				</div>
