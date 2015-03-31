@@ -37,7 +37,7 @@
 				<div class="small-12 columns">
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
-						<h2>All brand assets at your fingertips</h2>
+						<h2>All brand assets at your fingertips<img src="../images/general/MS_digital_assets.png" alt="Digital Assets Management" class="img-radius top-right-image full-width"/></h2>
 						<br>
 						<p>Our Digital Asset Management (DAM) system is a powerful, intuitive, web-based relational database for storing, retrieving and distributing all your approved brand assets. It&rsquo;s also configured on an enterprise-strength SQL database, a secure multi-server platform.</p>
 						

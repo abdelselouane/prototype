@@ -37,7 +37,7 @@
 				<div class="small-12 columns">
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
-						<h2>We empower you with intelligent KPI reporting</h2>
+						<h2>We empower you with intelligent KPI reporting<img src="../images/general/MS_file_reporting_3.png" alt="Analistic Reporting" class="img-radius top-right-image full-width"/></h2>
 						<br>
 						<p>Our proprietary business intelligence solution, Phototype BizIQ&trade;, dramatically improves decision-making around your packaging lifecycle and all supporting processes. It&rsquo;s  a powerful tool that aggregates data from various sources and generates  comprehensive, up-to-the minute dashboard reports featuring stunning visuals that communicate key performance metrics.</p>
 						<p>Importantly, it works with your existing data systems &ndash; regardless of the number, format, structure or location. That means no changes to your  internal processes, no expensive programming revisions, and no delays. It finds, formats, summarizes, and reports robust data in a way that delivers real-time, actionable insight...anytime and anywhere.</p>
