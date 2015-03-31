@@ -66,6 +66,7 @@
                                  <br><br>
                                    <img src="../images/general/MS_4.png" alt="Digital Asset Management" class="img-radius img-list" />
                                     <p class="text-adjust font-size-16px">Working brand assets &ndash; including digital images, color specifications, and die lines &ndash; are also stored in virtual custom &ldquo;libraries&rdquo;. This centralized repository provides a single, self-serve point of entry for all members of the supply chain to access the latest versions of the graphic elements used in the design and production of packaging and other print materials. This keeps everyone working from the same playbook.</p>
+                                <br><br>
                                     <!-- CMSContentEnd:Main -->
                             </div>
 					</section>
