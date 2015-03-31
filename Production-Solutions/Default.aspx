@@ -55,6 +55,12 @@
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
+                                    <!-- CMSContentStart:SecondImageSection --><h3><a href="/Production-Solutions/Electronic-Assembly.aspx"><img class="img-radius img-list" src="/images/general/PS_EA_1.png" alt="Electronic Assembly" /></a><a href="/Production-Solutions/Electronic-Assembly.aspx">Electronic Assembly</a></h3>
+<p class="text-adjust">Print-ready electronic files and high-resolution separations for offset, gravure and flexo plate production are created to exact printing and substrate specifications.</p><!-- CMSContentEnd:SecondImageSection -->
+                                 
+                            </div>
+                             <div class="small-12 medium-6 columns">
+                                 
                                     <!-- CMSContentStart:ThirdImageSection --><h3><a href="/Production-Solutions/Contract-Color-Proofing.aspx"><img class="img-radius img-list" src="/images/general/PS_proofing_1.png" alt="Contract Color Proofing" /></a><a href="/Production-Solutions/Contract-Color-Proofing.aspx">Contract Color Proofing</a></h3>
 <p class="text-adjust">Legal and regulatory compliance, grammar and spelling, adherence to brand standards, etc. &mdash; nothing gets past us.</p><!-- CMSContentEnd:ThirdImageSection -->
                             </div>
