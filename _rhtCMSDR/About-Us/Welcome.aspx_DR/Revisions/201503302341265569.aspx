@@ -40,7 +40,7 @@
                             <div class="left small-12 large-12 columns">
                                 
                                 <!-- CMSContentStart:Main --><h2>Phototype...<img class="img-radius top-right-image full-width" src="/images/general/welcome-women.png" alt="Welcome Woman" /></h2>
-<h3>where art and science meet to deliver unparalleled brand power</h3>
+<h3>where art and science meet <br class="hide-break" />to deliver unparalleled brand power</h3>
 <p>All your hard work has led to this. Ipsum is simply dummy text of the industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 <h3>Our Passion...</h3>

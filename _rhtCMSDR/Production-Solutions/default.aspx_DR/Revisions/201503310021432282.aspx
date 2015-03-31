@@ -73,8 +73,10 @@
                             </div>
                             <div class="small-12 medium-12 columns">
                                  
-                                    <!-- CMSContentStart:FivethImageSection --><h3><a href="/Production-Solutions/3D-Rendering.aspx"><img class="img-radius img-list" src="/images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" /></a><a href="/Production-Solutions/3D-Rendering.aspx">3D Rendering</a></h3>
-<p class="text-adjust">Bring your packaging and displays to life long before mock-ups or printed packages can be photographed &mdash; with greater accuracy, lower cost and less hassle.</p><!-- CMSContentEnd:FivethImageSection -->
+                                    <!-- CMSContentStart:FivethImageSection -->
+                                    <h3><img src="../images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" class="img-radius img-list" />3D Rendering</h3>
+                                    <p class="text-adjust">Bring your packaging and displays to life long before mock-ups or printed packages can be photographed &mdash; with greater accuracy, lower cost and less hassle.</p>
+                                    <!-- CMSContentEnd:FivethImageSection -->
                             </div>
                         </div>
 						<div class="row">

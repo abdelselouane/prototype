@@ -521,6 +521,12 @@ footer .row ul.inline-list.left li:last-child a:after {
 .timelineFlat:hover {
 	background-color: transparent;
 }
+.timelineFlat .t_line_view {
+	width: 840px;	
+}
+.timelineFlat .timeline_line {
+	width: 840px;
+}
 .timelineFlat a.t_line_node:after {	
 	content: "";
 	border-radius: 22px;
@@ -575,24 +581,29 @@ footer .row ul.inline-list.left li:last-child a:after {
 	z-index: 2; 
 	margin: 0 !important;
 	border-radius: 0 20px 0 0;
+	text-overflow: ellipsis;
 }
 .timelineFlat .item_open h2 {
 	font-family: 'Istok Web', sans-serif !important;
 	font-weight: 700;
-	margin-bottom: 0;
 	font-size: 22px;
 	line-height: 24px;
 	color: #003493;
+	padding: 10px 15px 0 15px;
 }
 .timelineFlat .item_open h3 {
 	font-size: 16px;
+	font-weight: 700;
 	line-height: 18px;
 	font-weight: 4008;
 	color: #003493;
+	padding: 0 15px;
+}
+.timelineFlat .item_open p {
+	padding: 0 15px;
+	margin-bottom: 5px;
 }
 .timelineFlat .item_open_cwrapper {
-	width: auto;
-	padding: 15px;
 }
 .timelineFlat .item_open .t_close {
 	position:absolute;
@@ -613,7 +624,6 @@ footer .row ul.inline-list.left li:last-child a:after {
 	color: #fff;
 	width: 282px;
 	height: 276px;
-	margin-right: 0 !important;
 	background-color: transparent;
 }
 .timelineFlat .item h2 {
@@ -657,7 +667,7 @@ footer .row ul.inline-list.left li:last-child a:after {
 .timelineFlat .item.item_node_hover:before {	
 	content: "";
 	position: absolute;
-	height: 20px;
+	height: 0;
 	background: rgba(0, 52, 147, .7);
 	border-radius: 20px 0 0 0;
 	width: 100%;
@@ -666,8 +676,8 @@ footer .row ul.inline-list.left li:last-child a:after {
 	left:0;
 }
 .timelineFlat .item.item_node_hover:after {
-	top: 16px;
-	border-top: 6px solid rgba(0, 52, 147, .7);
+	top: 0;
+	border: none;
 }
 .timelineFlat .t_left, .timelineFlat .t_right, .timelineFlat:hover .t_left, .timelineFlat:hover .t_right {
 	background-color: rgba(255, 255, 255, .5);

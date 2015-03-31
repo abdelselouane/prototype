@@ -38,15 +38,20 @@
 					<section id="main-content">
                         <div class="row">
                             <div class="small-12 large-12 columns">
-                                <!-- CMSContentStart:SectionTop --><h2 class="large-text margin-top-20px">It&rsquo;s not just what we do...</h2>
-<h3 class="large-text">it&rsquo;s how we do it, and it&prime;s personal.</h3>
-<p>Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="/Clients.aspx">clients</a>, our <a href="/Employees.aspx">employees</a>, our <a href="/Communities.aspx">communities</a> and our <a href="/Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry. Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="/Clients.aspx">clients</a>, our <a href="/Employees.aspx">employees</a>, our <a href="/Communities.aspx">communities</a> and our <a href="/Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.</p>
-<ul class="content-list">
-<li>It&rsquo;s a difference you will see and feel when you walk into our offices</li>
-<li>It&rsquo;s reflected in the solutions and services we provide, and the way we work together</li>
-<li>It&rsquo;s at the core of how we&rsquo;ve been able to thrive as a family-owned business for nearly 100 years</li>
-</ul>
-<h3>Learn more about how we put our sense of responsibility into practice every day:</h3><!-- CMSContentEnd:SectionTop -->
+                                <!-- CMSContentStart:SectionTop -->
+                                <h2 class="large-text margin-top-20px">It's not just what we do...</h2>   
+                                <h3 class="large-text">it's how we do it, and it's personal.</h3>
+                                <p>
+									Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="Clients.aspx">clients</a>, our <a href="Employees.aspx">employees</a>, our <a href="Communities.aspx">communities</a> and our <a href="Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.
+									Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="Clients.aspx">clients</a>, our <a href="Employees.aspx">employees</a>, our <a href="Communities.aspx">communities</a> and our <a href="Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.
+                                </p>
+                                <ul class="content-list">    
+                                    <li>It&rsquo;s a difference you will see and feel when you walk into our offices</li> 
+                                    <li>It&rsquo;s reflected in the solutions and services we provide, and the way we work together</li> 
+                                    <li>It&rsquo;s at the core of how we&rsquo;ve been able to thrive as a family-owned business for nearly 100 years</li>
+                                </ul>
+                                <h3>Learn more about how we put our sense of responsibility into practice every day:</h3>
+                               <!-- CMSContentEnd:SectionTop -->
                             </div>
                         </div>
                         <div class="row">

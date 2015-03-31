@@ -49,20 +49,25 @@
                         <div class="row">
                             <div class="small-12 medium-6 columns">
                                 
-                                    <!-- CMSContentStart:FirstImageSection --><h3><a href="/Production-Solutions/Production-Art.aspx"><img class="img-radius img-list" src="/images/general/PS_PA_1.png" alt="Production Art" /></a><a href="/Production-Solutions/Production-Art.aspx">Production Art</a></h3>
-<p class="text-adjust">We&rsquo;re experts at transitioning designs to die-line-specific, color-accurate, archive-quality electronic files.</p><!-- CMSContentEnd:FirstImageSection -->
+                                    <!-- CMSContentStart:FirstImageSection -->
+                                     <h3><img src="../images/general/PS_PA_1.png" alt="Production Art" class="img-radius img-list" />Production Art</h3>
+                                    <p class="text-adjust">We&rsquo;re experts at transitioning designs to die-line-specific, color-accurate, archive-quality electronic files.
+                                    </p> 
+                                    <!-- CMSContentEnd:FirstImageSection -->
                                 
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
-                                    <!-- CMSContentStart:SecondImageSection --><h3><a href="/Production-Solutions/Electronic-Assembly.aspx"><img class="img-radius img-list" src="/images/general/PS_EA_1.png" alt="Electronic Assembly" /></a><a href="/Production-Solutions/Electronic-Assembly.aspx">Electronic Assembly</a></h3>
+                                    <!-- CMSContentStart:SecondImageSection --><h3><a href="/Production-Solutions/Electronic-Assembly.aspx"><img class="img-radius img-list" src="/images/general/PS_EA_1.png" alt="Electronic Assembly" /></a>Electronic Assembly</h3>
 <p class="text-adjust">Print-ready electronic files and high-resolution separations for offset, gravure and flexo plate production are created to exact printing and substrate specifications.</p><!-- CMSContentEnd:SecondImageSection -->
                                  
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
-                                    <!-- CMSContentStart:ThirdImageSection --><h3><a href="/Production-Solutions/Contract-Color-Proofing.aspx"><img class="img-radius img-list" src="/images/general/PS_proofing_1.png" alt="Contract Color Proofing" /></a><a href="/Production-Solutions/Contract-Color-Proofing.aspx">Contract Color Proofing</a></h3>
-<p class="text-adjust">Legal and regulatory compliance, grammar and spelling, adherence to brand standards, etc. &mdash; nothing gets past us.</p><!-- CMSContentEnd:ThirdImageSection -->
+                                    <!-- CMSContentStart:ThirdImageSection -->
+                                    <h3><img src="../images/general/PS_proofing_1.png" alt="Contract Color Proofing" class="img-radius img-list" />Contract Color Proofing</h3>
+                                    <p class="text-adjust">Legal and regulatory compliance, grammar and spelling, adherence to brand standards, etc. &mdash; nothing gets past us.</p>
+                                    <!-- CMSContentEnd:ThirdImageSection -->
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
@@ -73,8 +78,10 @@
                             </div>
                             <div class="small-12 medium-12 columns">
                                  
-                                    <!-- CMSContentStart:FivethImageSection --><h3><a href="/Production-Solutions/3D-Rendering.aspx"><img class="img-radius img-list" src="/images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" /></a><a href="/Production-Solutions/3D-Rendering.aspx">3D Rendering</a></h3>
-<p class="text-adjust">Bring your packaging and displays to life long before mock-ups or printed packages can be photographed &mdash; with greater accuracy, lower cost and less hassle.</p><!-- CMSContentEnd:FivethImageSection -->
+                                    <!-- CMSContentStart:FivethImageSection -->
+                                    <h3><img src="../images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" class="img-radius img-list" />3D Rendering</h3>
+                                    <p class="text-adjust">Bring your packaging and displays to life long before mock-ups or printed packages can be photographed &mdash; with greater accuracy, lower cost and less hassle.</p>
+                                    <!-- CMSContentEnd:FivethImageSection -->
                             </div>
                         </div>
 						<div class="row">

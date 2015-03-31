@@ -40,12 +40,14 @@
                             <div class="left small-12 large-12 columns">
                                 
                                 <!-- CMSContentStart:Main --><h2>Phototype...<img class="img-radius top-right-image full-width" src="/images/general/welcome-women.png" alt="Welcome Woman" /></h2>
-<h3>where art and science meet to deliver unparalleled brand power and efficiency</h3>
-<p>All your hard work has led to this. It&rsquo;s the final &ldquo;moment of truth&rdquo; &ndash; your target consumer is staring at the retail shelf, deciding whether or not to purchase your brand&hellip;will you be successful? We&rsquo;re here to make sure you are.</p>
+<h3>where art and science meet <br class="hide-break" />to deliver unparalleled brand power and efficiency</h3>
+<p>All your hard work has led to this. It&rsquo;s the final &ldquo;moment of truth&rdquo; &ndash; your target consumer is staring at the retail shelf, deciding whether or</p>
+<p>not to purchase your brand&hellip;will you be successful? We&rsquo;re here to make sure you are.</p>
 <h3>We believe...</h3>
 <ul class="list">
 <li>
-<p>Your brand&rsquo;s appearance at shelf should always match the vision you championed, the equities you created and the design you approved.</p>
+<p>Your brand&rsquo;s appearance at shelf should always match the vision you championed, the equities you created and the design</p>
+<p>you approved.</p>
 </li>
 <li>
 <p>Your brand&rsquo;s colors should always be consistent, vibrant, crisp and clean regardless of the printing process, the substrate or the printer&hellip;so your brand looks exactly the same, everywhere it&rsquo;s sold.</p>
@@ -62,8 +64,9 @@
 <p>In service to our valued clients, we employ over 260 passionate problem solvers &ndash; devoted strategists, designers, production artists, graphics application and workflow specialists, programmers, account managers, color scientists and printing experts. We have a highly innovative spirit, reinvest a generous portion of our annual revenues into Research &amp; Development, and celebrate the joy of creating customized solutions that empower our clients and enable them to achieve their goals.</p>
 <h3>Let's Connect.</h3>
 <p>We want to be the trusted advisor you rely on for superior graphic solutions, by continuously delivering unsurpassed industry expertise, breakthrough innovation, and an exceptional customer experience. So your brand always wins ate final &ldquo;moment of truth&rdquo;.</p>
-<p>Warm Regards,&nbsp;</p>
-<p style="padding-left: 90px;"><img class="signature" src="/images/general/signature.png" alt="Welcome Signature" /></p><!-- CMSContentEnd:Main -->
+<p>Warm Regards,</p>
+<p>&nbsp;</p>
+<p style="padding-left: 210px;"><img class="signature" src="/images/general/signature.png" alt="Welcome Signature" /></p><!-- CMSContentEnd:Main -->
                                 
                             </div>
                         </div>

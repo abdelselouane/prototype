@@ -40,7 +40,7 @@
                             <div class="left small-12 large-12 columns">
                                 
                                 <!-- CMSContentStart:Main --><h2>Phototype...<img class="img-radius top-right-image full-width" src="/images/general/welcome-women.png" alt="Welcome Woman" /></h2>
-<h3>where art and science meet to deliver unparalleled brand power and efficiency</h3>
+<h3>where art and science meet <br class="hide-break" />to deliver unparalleled brand power and efficiency</h3>
 <p>All your hard work has led to this. It&rsquo;s the final &ldquo;moment of truth&rdquo; &ndash; your target consumer is staring at the retail shelf, deciding whether or not to purchase your brand&hellip;will you be successful? We&rsquo;re here to make sure you are.</p>
 <h3>We believe...</h3>
 <ul class="list">

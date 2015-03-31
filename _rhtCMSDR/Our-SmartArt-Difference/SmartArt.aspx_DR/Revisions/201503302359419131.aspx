@@ -23,7 +23,9 @@
 				<div class="small-12 columns">
 					<section id="main-heading">
 						<div class="editable-content">
-						<!-- CMSContentStart:Heading --><h1>SmartArt</h1><!-- CMSContentEnd:Heading -->
+						<!-- CMSContentStart:Heading -->
+							<h1>Smart Art</h1>
+						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
 					</section>
