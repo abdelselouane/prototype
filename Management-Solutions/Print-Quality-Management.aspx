@@ -37,7 +37,7 @@
 				<div class="small-12 columns">
 					<section id="main-content">
 						<!-- CMSContentStart:Main -->
-						<h2>Improve your total print quality...not just color</h2>
+						<h2>Improve your total print quality...not just color<img src="../images/general/MS_print_quality.png" alt="Print Quality Management" class="img-radius top-right-image full-width"/></h2>
 						<br>
 						<p>Yes, we&rsquo;re passionate perfectionists about <a href="Color-Management.aspx">color management</a>. Yet, we also know your brand&rsquo;s impression at shelf is strongest when all elements of print quality are at their very best. Unlike other software-only offerings on the market that simply manage color, our  cutting-edge Print Quality Management (PQM) solution continuously measures and  reports on up to nine individual, customizable and meaningful appearance  attributes &ndash; ensuring that your brand appears as intended on shelf, regardless  of where or when it was printed.</p>
 						<p>The knowledge of our in-field print experts, backed by our state-of-the  art color science and industry leading PQM program, makes us uniquely  positioned to understand and qualify the capabilities of your print vendors.  Our experts work with you to establish a customized definition of the critical  attributes to measure for an objective analysis of each print run on every  substrate, including:</p>

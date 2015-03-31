@@ -36,7 +36,7 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-						<!-- CMSContentStart:Main --><h2>Vibrant, consistent color on shelf</h2>
+						<!-- CMSContentStart:Main --><h2>Vibrant, consistent color on shelf<img src="../images/general/MS_color_management.png" alt="Color Management" class="img-radius top-right-image full-width"/></h2>
 <p>&nbsp;</p>
 <p>Color is the first cue shoppers use to find their brand on a crowded store shelf. Therefore, your brand&rsquo;s colors should always be consistent, vibrant, crisp, and clean &ndash; regardless of the day, store, or market. Mastering true color accuracy across multiple printing and proofing platforms, substrates and production runs is our specialty.</p>
 <p>On the leading edge of color science for nearly a century, Phototype has developed innovative tools for managing and measuring color within tolerances that exceed industry standards. We also help optimize press predictability through close, technical collaboration with printers.</p>

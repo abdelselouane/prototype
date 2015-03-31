@@ -36,7 +36,7 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-						<!-- CMSContentStart:Main --><h2><img src="../images/general/MS_project_management2.png" alt="client woman" class="img-radius top-right-image full-width" width="100%" height="auto"/>Increase your productivity</h2>
+						<!-- CMSContentStart:Main --><h2>Increase your productivity<img src="../images/general/MS_project_management2.png" alt="client woman" class="img-radius top-right-image full-width" width="100%" height="auto"/></h2>
 <p>&nbsp;</p>
 <p>Talented, passionate, and committed to your success...our Project Management experts manage the smallest of details to ensure that the end result always exceeds your expectations. Our team becomes your team so you can better focus time and energy on the next big idea or strategic initiative, not on managing every step of a workflow. Leave that to us...rest assured that projects will move swiftly and accurately through the graphics supply chain and ultimately look great at shelf.</p>
 <ul class="list">
