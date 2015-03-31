@@ -61,30 +61,22 @@
                             </div>
                              <div class="small-12 medium-6 columns">
                                  
-                                    <!-- CMSContentStart:SecondImageSection -->
-                                    <h3><img src="../images/general/MS_2.png" alt="Electronic Assembly" class="img-radius img-list" />Electronic Assembly</h3>
-                                    <p class="text-adjust">Print-ready electronic files and high-resolution separations for offset, gravure and flexo plate production are created to exact printing and substrate specifications.</p>
-                                    <!-- CMSContentEnd:SecondImageSection -->
-                                 
-                            </div>
-                             <div class="small-12 medium-6 columns">
-                                 
                                     <!-- CMSContentStart:ThirdImageSection -->
-                                    <h3><img src="../images/general/MS_3.png" alt="Color Management" class="img-radius img-list" />Color Management</h3>
+                                    <h3><img src="../images/general/MS_2.png" alt="Color Management" class="img-radius img-list" />Color Management</h3>
                                     <p class="text-adjust">We leverage technology and expertise for signature images and colors that reproduce predictably and flawlessly, run after run.</p>
                                     <!-- CMSContentEnd:ThirdImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
                                  
                                     <!-- CMSContentStart:FourthImageSection -->
-                                    <h3><img src="../images/general/MS_4.png" alt="File Routing & Collaboration " class="img-radius img-list" />File Routing & Collaboration </h3>
+                                    <h3><img src="../images/general/MS_3.png" alt="File Routing & Collaboration " class="img-radius img-list" />File Routing & Collaboration </h3>
                                     <p class="text-adjust">Allows users to collaborate, annotate, and approve artwork in real-time, resulting in a “single version of the truth” that virtually eliminates errors.</p>
                                     <!-- CMSContentEnd:FourthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
                                  
                                     <!-- CMSContentStart:FifthImageSection -->
-                                    <h3><img src="../images/general/MS_5.png" alt="3D Rendering" class="img-radius img-list" />Digital Asset Management</h3>
+                                    <h3><img src="../images/general/MS_4.png" alt="3D Rendering" class="img-radius img-list" />Digital Asset Management</h3>
                                     <p class="text-adjust">Highly efficient storage, retrieval, deployment, and repurposing of brand images, colors, and dies between all supply chain partners.
 									</p>
                                     <!-- CMSContentEnd:FifthImageSection -->
@@ -92,7 +84,7 @@
                             <div class="small-12 medium-6 columns">
                                  
                                     <!-- CMSContentStart:SixthImageSection -->
-                                    <h3><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" />Print Quality Management</h3>
+                                    <h3><img src="../images/general/MS_5.png" alt="3D Rendering" class="img-radius img-list" />Print Quality Management</h3>
                                     <p class="text-adjust">We monitor, measure, and report on the most comprehensive set of quality metrics in the industry.
 									</p>
                                     <!-- CMSContentEnd:SixthImageSection -->
@@ -100,7 +92,7 @@
                             <div class="small-12 medium-12 columns">
                                  
                                     <!-- CMSContentStart:SeventhImageSection -->
-                                    <h3><img src="../images/general/Our_Responsibility_Employees_1.png" alt="3D Rendering" class="img-radius img-list" />Analytics & Reporting</h3>
+                                    <h3><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" />Analytics & Reporting</h3>
                                     <p class="text-adjust">Performance reporting via customizable, easy-to-read dashboards that communicate key metrics and help drive continuous improvement.
 									</p>
                                     <!-- CMSContentEnd:SeventhImageSection -->
