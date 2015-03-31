@@ -90,7 +90,6 @@
                                     <!-- CMSContentEnd:SixthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                    <br>
                                     <!-- CMSContentStart:SeventhImageSection -->
                                     <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
                                     <p class="text-adjust">Performance reporting via customizable, easy-to-read dashboards that communicate key metrics and help drive continuous improvement.
@@ -102,13 +101,11 @@
 						<div class="row">
                             <div class="small-12 medium-12 columns">
 									<br>
-                                <p>
                                     <!-- CMSContentStart:SectionBottom -->
                                     <h3>Each of these can be leveraged on a stand-alone basis, as part of an end-to-end solution, or anywhere in between. The choice is yours. Where can we help you?</h3>
 									<br>
 									<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                     <!-- CMSContentEnd:SectionBottom -->
-								</p>
                             </div>
                         </div>
 					</section>
