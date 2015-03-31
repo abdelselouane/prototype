@@ -44,7 +44,7 @@
                                     We simplify your design-to-production process by deploying in-house experts and state-of-the-art systems and tools that connect seamlessly across your graphics supply chain, regardless of your existing hardware and software platforms. A single point of entry, with a personalized URL, gives your internal teams and key suppliers instant access and visibility 24/7/365.
                                 </p>
 								<p>
-									The best part... you won’t have to change how you work to work with us, we customize our teams and tools to work for <em>you</em>.
+									The best part... you won't have to change how you work to work with us, we customize our teams and tools to work for <em>you</em>.
 								</p>
                                <!-- CMSContentEnd:SectionTop -->
                             </div>
@@ -76,22 +76,22 @@
                             <div class="small-12 medium-6 columns">
                                  <br>
                                     <!-- CMSContentStart:FifthImageSection -->
-                                    <h3><a href="/Management-Solutions/Digital-Asset-Management.aspx"><img src="../images/general/MS_4.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Digital-Asset-Management.aspx">Digital Asset Management</a></h3>
+                                    <h3><a href="/Management-Solutions/Digital-Asset-Management.aspx"><img src="../images/general/MS_4.png" alt="Digital Asset Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Digital-Asset-Management.aspx">Digital Asset Management</a></h3>
                                     <p class="text-adjust">Highly efficient storage, retrieval, deployment, and repurposing of brand images, colors, and dies between all supply chain partners.
 									</p>
                                     <!-- CMSContentEnd:FifthImageSection -->
                             </div>
-                            <div class="small-12 medium-6 columns">
+                            <div class="small-12 medium-6 large-6 columns">
                                     <br>
                                     <!-- CMSContentStart:SixthImageSection -->
-                                    <h3><a href="/Management-Solutions/Print-Quality-Management.aspx"><img src="../images/general/MS_5.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Print-Quality-Management.aspx">Print Quality Management</a></h3>
+                                    <h3><a href="/Management-Solutions/Print-Quality-Management.aspx"><img src="../images/general/MS_5.png" alt="Print Quality Managment" class="img-radius img-list" /></a><a href="/Management-Solutions/Print-Quality-Management.aspx">Print Quality Management</a></h3>
                                     <p class="text-adjust">We monitor, measure, and report on the most comprehensive set of quality metrics in the industry.
 									</p>
                                     <!-- CMSContentEnd:SixthImageSection -->
                             </div>
-                            <div class="small-12 medium-6 columns">
+                            <div class="small-12 medium-6 large-6 columns">
                                     <!-- CMSContentStart:SeventhImageSection -->
-                                    <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
+                                    <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="Analitics Reporting" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
                                     <p class="text-adjust">Performance reporting via customizable, easy-to-read dashboards that communicate key metrics and help drive continuous improvement.
 									</p>
                                     <!-- CMSContentEnd:SeventhImageSection -->
