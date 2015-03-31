@@ -51,48 +51,48 @@
                         </div>
                         <div class="row">
                             <div class="small-12 medium-6 columns">
-                                
+                                <br>
                                     <!-- CMSContentStart:FirstImageSection -->
-                                     <h3><img src="../images/general/MS_1.png" alt="Project Management" class="img-radius img-list" />Project Management</h3>
+                                     <h3><a href="/Management-Solutions/Project-Management.aspx"><img src="../images/general/MS_1.png" alt="Project Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Project-Management.aspx" >Project Management</a></h3>
                                     <p class="text-adjust">Our teams shepherd your brand projects from concept to shelf with impeccable attention, exceptional collaboration, and precise application of our tools and technology.
                                     </p> 
                                     <!-- CMSContentEnd:FirstImageSection -->
                                 
                             </div>
                              <div class="small-12 medium-6 columns">
-                                 
+                                 <br>
                                     <!-- CMSContentStart:ThirdImageSection -->
-                                    <h3><img src="../images/general/MS_2.png" alt="Color Management" class="img-radius img-list" />Color Management</h3>
+                                    <h3><a href="/Management-Solutions/Color-Management.aspx"><img src="../images/general/MS_2.png" alt="Color Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Color-Management.aspx">Color Management</a></h3>
                                     <p class="text-adjust">We leverage technology and expertise for signature images and colors that reproduce predictably and flawlessly, run after run.</p>
                                     <!-- CMSContentEnd:ThirdImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                 
+                                 <br>
                                     <!-- CMSContentStart:FourthImageSection -->
-                                    <h3><img src="../images/general/MS_3.png" alt="File Routing & Collaboration " class="img-radius img-list" />File Routing & Collaboration </h3>
+                                    <h3><a href="/Management-Solutions/File-Routing-Collaboration.aspx"><img src="../images/general/MS_3.png" alt="File Routing & Collaboration " class="img-radius img-list" /></a><a href="/Management-Solutions/File-Routing-Collaboration.aspx">File Routing & Collaboration</a></h3>
                                     <p class="text-adjust">Allows users to collaborate, annotate, and approve artwork in real-time, resulting in a “single version of the truth” that virtually eliminates errors.</p>
                                     <!-- CMSContentEnd:FourthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                 
+                                 <br>
                                     <!-- CMSContentStart:FifthImageSection -->
-                                    <h3><img src="../images/general/MS_4.png" alt="3D Rendering" class="img-radius img-list" />Digital Asset Management</h3>
+                                    <h3><a href="/Management-Solutions/Digital-Asset-Management.aspx"><img src="../images/general/MS_4.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Digital-Asset-Management.aspx">Digital Asset Management</a></h3>
                                     <p class="text-adjust">Highly efficient storage, retrieval, deployment, and repurposing of brand images, colors, and dies between all supply chain partners.
 									</p>
                                     <!-- CMSContentEnd:FifthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                 
+                                    <br>
                                     <!-- CMSContentStart:SixthImageSection -->
-                                    <h3><img src="../images/general/MS_5.png" alt="3D Rendering" class="img-radius img-list" />Print Quality Management</h3>
+                                    <h3><a href="/Management-Solutions/Print-Quality-Management.aspx"><img src="../images/general/MS_5.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Print-Quality-Management.aspx">Print Quality Management</a></h3>
                                     <p class="text-adjust">We monitor, measure, and report on the most comprehensive set of quality metrics in the industry.
 									</p>
                                     <!-- CMSContentEnd:SixthImageSection -->
                             </div>
-                            <div class="small-12 medium-12 columns">
-                                 
+                            <div class="small-12 medium-6 columns">
+                                    <br>
                                     <!-- CMSContentStart:SeventhImageSection -->
-                                    <h3><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" />Analytics & Reporting</h3>
+                                    <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="3D Rendering" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
                                     <p class="text-adjust">Performance reporting via customizable, easy-to-read dashboards that communicate key metrics and help drive continuous improvement.
 									</p>
                                     <!-- CMSContentEnd:SeventhImageSection -->
@@ -101,6 +101,7 @@
 						<div class="row">
                             <div class="small-12 medium-12 columns">
 									<br>
+                                <p>
                                     <!-- CMSContentStart:SectionBottom -->
                                     <h3>Each of these can be leveraged on a stand-alone basis, as part of an end-to-end solution, or anywhere in between. The choice is yours. Where can we help you?</h3>
 									<br>
