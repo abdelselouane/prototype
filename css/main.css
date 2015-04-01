@@ -438,9 +438,10 @@ ul.cirle-list li{
     margin-left: 170px;
 }
 
-#file-routing ul, #file-routing p{
+#file-routing-layout ul, #file-routing p, #analistic-layout ul, analistic-layout p{
     font-size: 16px;
 }
+
 /* MEDIA QUERIES
 ===============================
 */
