@@ -41,11 +41,11 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2 class="large-text margin-top-20px">Reducing our environmental footprint, one step at a time<img src="../../images/general/About_OR_environment_2.jpg" alt="Environment" class="img-radius top-right-image full-width"/></h2>
+                                <h2>Reducing our environmental footprint, one step at a time<img src="../../images/general/About_OR_environment_2.jpg" alt="Environment" class="img-radius top-right-image full-width"/></h2>
                                 <br>
                                 <p>We have a responsibility to minimize our environmental impact, and are actively engaged in numerous operational programs and industry strategic initiatives. Below are just a few of examples:</p>
 
-                                <h3 class="large-text">Our Operational Programs</h3>
+                                <h3>Our Operational Programs</h3>
 								
 								<h2>Reduce</h2>
 								

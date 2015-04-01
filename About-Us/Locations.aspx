@@ -1,4 +1,4 @@
-﻿<%@ Page ResponseEncoding="utf-8" %>
+<%@ Page ResponseEncoding="utf-8" %>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
@@ -49,7 +49,7 @@
                                 <div class="headquarter-address">
                                     
                                     <!-- CMSContentStart:HeadquartersInfo -->
-                                    <h3 class="title">Our headquarters is a 6-acre campus in downtown Cincinnati, Ohio.</h3>
+                                    <h3>Our headquarters is a 6-acre campus in downtown Cincinnati, Ohio.</h3>
 
                                     <address>
                                         2141 Gilbert Avenue <br />Cincinnati, Ohio 45206<br /><br />
