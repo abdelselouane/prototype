@@ -37,12 +37,12 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-                        <div id="locations-layout" class="row">
+                        <div class="row">
                             <div class="small-12 large-12 columns">
                                 
                                 <div class="headquarter-image">
                                     <!-- CMSContentStart:HeadquartersImage -->
-                                     <img src="../images/general/location1.png" alt="Welcome Woman" class="img-radius"/>
+                                     <img src="../images/general/location1.png" alt="Locations" class="img-radius"/>
                                     <!-- CMSContentStart:HeadquartersImage -->
                                 </div>
                                 
