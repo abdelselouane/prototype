@@ -39,8 +39,8 @@
                         <div class="row">
                             <div class="small-12 large-12 columns">
                                 <!-- CMSContentStart:SectionTop -->
-                                <h2 class="large-text">The right talent and tools make all the difference</h2>   
-                                <p class="margin-top-20px">
+                                <h2>The right talent and tools make all the difference</h2>   
+                                <p>
                                     We simplify your design-to-production process by deploying in-house experts and state-of-the-art systems and tools that connect seamlessly across your graphics supply chain, regardless of your existing hardware and software platforms. A single point of entry, with a personalized URL, gives your internal teams and key suppliers instant access and visibility 24/7/365.
                                 </p>
 								<p>

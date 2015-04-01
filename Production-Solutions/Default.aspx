@@ -40,7 +40,7 @@
                             <div class="small-12 large-12 columns">
                                 <!-- CMSContentStart:SectionTop -->
                                 <h2>Informed execution bridges the gap between <br class="hide-break">idea and aisle</h2>   
-                                <p class="margin-top-20px">
+                                <p>
                                     Integral to our <a href="/Our-SmartArt-Difference/SmartArt.aspx">SmartArt&#8480;</a> process, our production solutions are technologically efficient, fully integrated, precise, and maintain your design vision all the way from idea to aisle &ndash; regardless of the printing process, substrate or printer. 
                                 </p>
                                <!-- CMSContentEnd:SectionTop -->
