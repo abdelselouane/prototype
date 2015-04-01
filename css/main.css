@@ -103,6 +103,7 @@ h5{
     color: #0390cf;
     font-weight: 500;
     font-weight: 16px;
+	margin-bottom: 0;
 }
 div.triangle {
 	height: 26px;
@@ -121,6 +122,8 @@ hr.spacer {
 #main-content a.button {
 	color:#fff;
 }
+
+.rel { position:relative; }
 
 /* WElCOME PAGE
 ==============================
@@ -199,8 +202,23 @@ h3.responsability-link{
   line-height: 20px;
   font-weight: 500;
 }
+
+img.img-hover {
+	-webkit-transition: opacity .5s ease;
+	-moz-transition: opacity .5s ease;
+	-ms-transition: opacity .5s ease;
+	-o-transition: opacity .5s ease;
+	transition: opacity .5s ease;
+
+}
+
 img.img-hover:hover{
-  opacity: 0.5;    
+  opacity: 0.5;
+	-webkit-transition: none;
+	-moz-transition: none;
+	-ms-transition: none;
+	-o-transition: none;
+	transition: none;
 }
 
 
@@ -229,6 +247,30 @@ a.smart-art h3:hover, a.smart-art h3:active{
   opacity: 0.5;
 }
 
+#smarthot1 {
+	position:absolute;
+	right:66.66%;
+	top:0;
+	left:0;
+	bottom:0;
+}
+
+#smarthot2 {
+	position:absolute;
+	right:33.33%;
+	top:0;
+	left:33.33%;
+	bottom:0;
+}
+
+#smarthot3 {
+	position:absolute;
+	right:0;
+	top:0;
+	left:66.66%;
+	bottom:0;
+}
+
 /* 3D RENDERING
 ==============================
 */
@@ -250,6 +292,27 @@ img.bottom{
   padding: 20px;
 }
 
+/* QUICK LINKS PAGES
+===============================
+*/
+
+.quickTopCaption, .quickBottomCaption {
+	text-align:right;
+	font-size:12px;
+	margin:10px 0 20px 0;
+	display:block;
+}
+
+.quickBottomCaption { font-size:11px }
+
+.quickTopCaption a, .quickBottomCaption a {
+	color:#0091d0;
+	text-decoration:none;
+}
+
+.quickTopCaption a:hover, .quickBottomCaption a:hover {
+	text-decoration:underline;
+}
 
 
 /* CONTENT PAGES
@@ -335,6 +398,9 @@ ul.content-list li{
 }
 .margin-top-20px{
     margin-top: 20px;
+}
+.margin-bottom-20px{
+    margin-bottom: 20px;
 }
 .margin-top-25px{
     margin-top: 25px;

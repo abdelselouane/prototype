@@ -48,11 +48,10 @@
 								<p>The key is to find the right balance between the brand offering, beliefs and principles &mdash; the consumer&rsquo;s wants, needs and values &mdash; and the white spaces within the category where we can visualize these factors in a way that is unique, engaging and memorable. A way to create designs that support the brand essence, enhance the shopping experience and ultimately drive purchase.</p>
 								
 								<p>In short, design is problem solving and that problem is not solved until the design makes its way from the shelf and into the heart of a consumer. Deep knowledge of the print and production process enables us to create solutions without concessions or complications... a unique right-brain/left-brain approach that&rsquo;s reliable and repeatable. Our Gravity design team delivers breakthrough concepts that look as good on shelf as they did when you first saw them.</p>
-								<img src="../images/general/DS_design_strategic_2.png" alt="Design Strategic" class="img-radius lower-left-image full-width "/>
-								<br><br>
-								<p>It&rsquo;s this seamless integration of design and prepress expertise that makes working with us such a unique and rewarding experience. For our clients, this means:</p>
+								
+								<p><img src="../images/general/DS_design_strategic_2.png" width="225" alt="Design Strategic" class="img-radius  image-right image-top"/>It&rsquo;s this seamless integration of design and prepress expertise that makes working with us such a unique and rewarding experience. For our clients, this means:</p>
                             
-                                <ul class="list">
+                                <ul>
                                     <li>Designs that are &ldquo;print feasible&rdquo; and exceed expectations</li>
 									<li>Lower &ldquo;downstream&rdquo; production costs</li>
 									<li>Accelerated speed to market</li>

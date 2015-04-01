@@ -57,7 +57,7 @@
 									<li>Utilizes Ghent PDF Workgroup specs</li>
 									<li>Meets legal and regulatory requirements</li>
 								</ul>
-								<!--<img src="../images/general/PS_PA_2.png" alt="Production Art" class="img-radius lower-left-image full-width "/>-->
+								<img src="../images/general/PS_PA_2.png" alt="Production Art" class="img-radius lower-left-image full-width "/>
 								<a href="/Contact-Us/" class="button round">Let&rsquo;s Talk</a>
                                 
                                 <!-- CMSContentEnd:Main -->

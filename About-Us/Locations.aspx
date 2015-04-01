@@ -1,3 +1,4 @@
+﻿<%@ Page ResponseEncoding="utf-8" %>
 <!doctype html>
 <html class="no-js" lang="en">
 <head>

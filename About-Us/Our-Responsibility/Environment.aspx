@@ -41,7 +41,7 @@
                                 
                                 <!-- CMSContentStart:Main -->
                                 
-                                <h2 class="large-text margin-top-20px">Reducing our environmental footprint, one step at a time<img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
+                                <h2 class="large-text margin-top-20px">Reducing our environmental footprint, one step at a time<img src="../../images/general/About_OR_environment_2.jpg" alt="Environment" class="img-radius top-right-image full-width"/></h2>
                                 <br>
                                 <p>We have a responsibility to minimize our environmental impact, and are actively engaged in numerous operational programs and industry strategic initiatives. Below are just a few of examples:</p>
 
@@ -67,7 +67,7 @@
 								
 								<h3>Turning a negative into a positive</h3>
 								<p>All used film negatives are returned to a silver restoration plant.</p>
-								
+								<p><img class="img-radius lower-left-image full-width " src="/images/general/About_OR_environment_3.png" alt="Environment" /> </p>
 								<h3>Cartridges-to-Cash for School and Office Supplies</h3>
 								<p>Empty toner and printer cartridges are collected and recycled through school programs or directly with Staples&reg;, generating coupons for savings on school and office supply purchases.</p>
 

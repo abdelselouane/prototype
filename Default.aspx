@@ -25,12 +25,12 @@
 	
 	<section class="full-width orbits">
 		<div class="large-12 show-for-large-up">
-			<div id="featured" data-orbit>
+			<div id="featured" data-orbit data-options="animation_speed:1000; timer_speed:5000;">
 				<img src="/images/slide/slide-1a.jpg" alt="slide image 1" /><img src="/images/slide/slide-2a.jpg" alt="slide image 2" /><img src="/images/slide/slide-3a.jpg" alt="slide image 3" />
 			</div>
 		</div>
 		<div class="small-12 show-for-medium-down">
-			<div id="featured" data-orbit>
+			<div id="featured" data-orbit data-options="animation_speed:1000; timer_speed:5000;">
 				<img src="/images/slide/slide-1b.jpg" alt="slide image 1" /><img src="/images/slide/slide-2b.jpg" alt="slide image 2" /><img src="/images/slide/slide-3b.jpg" alt="slide image 3" />
 			</div>
 		</div>

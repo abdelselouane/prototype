@@ -24,7 +24,7 @@
 					<section id="main-heading">
 						<div class="editable-content">
 						<!-- CMSContentStart:Heading -->
-							<h1>H1 Tag</h1>
+							<h1>Quick Links</h1>
 						<!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
@@ -36,15 +36,39 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-						<!-- CMSContentStart:Main -->
-						<h2>H2 Tag</h2>
-						<h3>H3 Tag</h3>
-						<p>Start content here.</p>
-						<!-- CMSContentEnd:Main -->
+						<!-- CMSContentStart:TopHeading -->
+						<h2 class="large-text margin-top-20px margin-bottom-20px">Client</h2>
+						<!-- CMSContentEnd:TopHeading -->
+						<div class="row">
+						  <div class="small-6 large-3 columns">
+							<a href="#"><img src="../images/general/quick_thumb1.png" alt="Production Art" class="img-radius full-width img-hover"/>
+							<span class="quickTopCaption">File Routing & Collaboration</span></a>
+						  </div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb2.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">Cincinnati Guest FTP</span></a></div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb3.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">MassTransit: Cincinnati</span></a></div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb4.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">MassTransit:Columbus</span></a></div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb5.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">Print Quality Management</span></a></div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb6.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">Global Standard Tracking System</span></a></div>
+						  <div class="small-6 large-3 columns"><a href="#"><img src="../images/general/quick_thumb7.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickTopCaption">Hold For Inspection</span></a></div>
+						  <div class="small-6 large-3 columns"></div>
+						</div>
+						<!-- CMSContentStart:ClientLinks -->
+						<!-- CMSContentEnd:ClientLinks -->
+						<p>&nbsp;</p>
+						<!-- CMSContentStart:BottomHeading -->
+						<h2 class="large-text margin-bottom-20px">Employee</h2>
+						<!-- CMSContentStart:BottomHeading -->
+						<div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb1.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">The Backyard</span></a></div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb2.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">Webmail</span></a></div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb3.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">Wiki</span></a></div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb4.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">SOP Database</span></a></div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb5.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">Paycor</span></a></div>
+						  <div class="small-6 large-2 columns"><a href="#"><img src="../images/general/employee_thumb6.png" alt="Production Art" class="img-radius full-width img-hover"/><span class="quickBottomCaption">Anthem</span></a></div>
+						</div>
 					</section>
 				</div>
-			</div>
-		
+			</div>		
 		</div>
 	</div>
 </div>

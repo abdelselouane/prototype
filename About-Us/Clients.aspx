@@ -38,59 +38,46 @@
 					<section id="main-content">
                         <div class="row">
                             <div class="left small-12 large-12 columns">
-                                
                                 <!-- CMSContentStart:Main -->
-                                
-                                <h2>We are proud  partners to a number of leading consumer packaged goods companies, retailers,  printers and converters.<img src="../images/general/About_us_clients_1.png" alt="client woman" class="img-radius top-right-image full-width "/></h2>
+                                <h2>We are proud  partners to a number of leading consumer packaged goods companies, retailers,  printers and converters.</h2>
                                 <br>
-                                <h3>Consumer Packaged Goods companies</h3>
-
-                                <p>
-									Abbott <br>
-									Church &amp; Dwight <br>
-									Hershey<br>
-									J.M. Smucker Company<br>
-									Johnson &amp; Johnson<br>
-									Kimberly-Clark<br>
-									Pepsi<br>
-									Pinnacle Foods Inc.<br>
-									Post Foods <br>
-									Procter &amp; Gamble<br>
-									Smithfield Farmland<br>
-									Sunny Delight Beverages Co.<br>
-									Welch&rsquo;s
-								</p>
-
+                                <h3><img src="/images/general/About_us_clients_1.png" alt="client woman" class="img-radius top-right-image full-width hide-for-small-down"/>Consumer Packaged Goods companies</h3>
+                                <ul>
+									<li>Abbott</li>
+									<li>Church &amp; Dwight</li>
+									<li>Hershey</li>
+									<li>J.M. Smucker Company</li>
+									<li>Johnson &amp; Johnson</li>
+									<li>Kimberly-Clark</li>
+									<li>Pepsi</li>
+									<li>Pinnacle Foods Inc.</li>
+									<li>Post Foods</li>
+									<li>Procter &amp; Gamble</li>
+									<li>Smithfield Farmland</li>
+									<li>Sunny Delight Beverages Co.</li>
+									<li>Welch&rsquo;s</li>
+								</ul>
                                 <h3>Retailers</h3>
-                                <p>
-									Aldi<br>
-									Bed Bath  &amp; Beyond<br>
-									Kroger<br>
-									Meijer<br>
-									Walmart
-                                </p>
-                                
-                                <h3>Printers & Converters</h3>
-								
-								<p>
-									Amcor <br>
-									Bemis<br>
-									Berry Plastics<br>
-									Burrows <br>
-									Clopay Plastics <br>
-									Interflex Group <br>
-									Packaging Specialties<br>
-									Printpack<br>
-									Trinity Packaging Corp
-								</p>
-
-                                <p>
-                                     <img src="../images/general/About_us_clients_2.png" alt="Welcome man" class="img-radius lower-left-image full-width"/>
-
-                                </p>
-
+                                <ul>
+									<li>Aldi</li>
+									<li>Bed Bath  &amp; Beyond</li>
+									<li>Kroger</li>
+									<li>Meijer</li>
+									<li>Walmart</li>
+                                </ul>
+                                <h3><img src="/images/general/About_us_clients_2.png" width="225" alt="Welcome man" class="img-radius image-right image-top"/>Printers & Converters</h3>
+								<ul>
+									<li>Amcor</li>
+									<li>Bemis</li>
+									<li>Berry Plastics</li>
+									<li>Burrows</li>
+									<li>Clopay Plastics</li>
+									<li>Interflex Group</li>
+									<li>Packaging Specialties</li>
+									<li>Printpack</li>
+									<li>Trinity Packaging Corp</li>
+								</ul>
                                 <!-- CMSContentEnd:Main -->
-                                
                             </div>
                         </div>
 					</section>

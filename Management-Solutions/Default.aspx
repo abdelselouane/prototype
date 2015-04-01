@@ -59,43 +59,43 @@
                                     <!-- CMSContentEnd:FirstImageSection -->
                                 
                             </div>
+                            <div class="small-12 medium-6 columns">
+                                 <br>
+                                    <!-- CMSContentStart:SecondImageSection -->
+                                    <h3><a href="/Management-Solutions/File-Routing-Collaboration.aspx"><img src="../images/general/MS_2.png" alt="File Routing & Collaboration " class="img-radius img-list" /></a><a href="/Management-Solutions/File-Routing-Collaboration.aspx">File Routing & Collaboration</a></h3>
+                                    <p class="text-adjust">Allows users to collaborate, annotate, and approve artwork in real-time, resulting in a “single version of the truth” that virtually eliminates errors.</p>
+                                    <!-- CMSContentEnd:SecondImageSection -->
+                            </div>
                              <div class="small-12 medium-6 columns">
                                  <br>
                                     <!-- CMSContentStart:ThirdImageSection -->
-                                    <h3><a href="/Management-Solutions/Color-Management.aspx"><img src="../images/general/MS_2.png" alt="Color Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Color-Management.aspx">Color Management</a></h3>
+                                    <h3><a href="/Management-Solutions/Color-Management.aspx"><img src="../images/general/MS_3.png" alt="Color Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Color-Management.aspx">Color Management</a></h3>
                                     <p class="text-adjust">We leverage technology and expertise for signature images and colors that reproduce predictably and flawlessly, run after run.</p>
                                     <!-- CMSContentEnd:ThirdImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                 <br>
+                                    <br>
                                     <!-- CMSContentStart:FourthImageSection -->
-                                    <h3><a href="/Management-Solutions/File-Routing-Collaboration.aspx"><img src="../images/general/MS_3.png" alt="File Routing & Collaboration " class="img-radius img-list" /></a><a href="/Management-Solutions/File-Routing-Collaboration.aspx">File Routing & Collaboration</a></h3>
-                                    <p class="text-adjust">Allows users to collaborate, annotate, and approve artwork in real-time, resulting in a “single version of the truth” that virtually eliminates errors.</p>
+                                    <h3><a href="/Management-Solutions/Print-Quality-Management.aspx"><img src="../images/general/MS_4.png" alt="Print Quality Managment" class="img-radius img-list" /></a><a href="/Management-Solutions/Print-Quality-Management.aspx">Print Quality Management</a></h3>
+                                    <p class="text-adjust">We monitor, measure, and report on the most comprehensive set of quality metrics in the industry.
+									</p>
                                     <!-- CMSContentEnd:FourthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
                                  <br>
                                     <!-- CMSContentStart:FifthImageSection -->
-                                    <h3><a href="/Management-Solutions/Digital-Asset-Management.aspx"><img src="../images/general/MS_4.png" alt="Digital Asset Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Digital-Asset-Management.aspx">Digital Asset Management</a></h3>
+                                    <h3><a href="/Management-Solutions/Digital-Asset-Management.aspx"><img src="../images/general/MS_5.png" alt="Digital Asset Management" class="img-radius img-list" /></a><a href="/Management-Solutions/Digital-Asset-Management.aspx">Digital Asset Management</a></h3>
                                     <p class="text-adjust">Highly efficient storage, retrieval, deployment, and repurposing of brand images, colors, and dies between all supply chain partners.
 									</p>
                                     <!-- CMSContentEnd:FifthImageSection -->
                             </div>
                             <div class="small-12 medium-6 columns">
-                                    <br>
-                                    <!-- CMSContentStart:SixthImageSection -->
-                                    <h3><a href="/Management-Solutions/Print-Quality-Management.aspx"><img src="../images/general/MS_5.png" alt="Print Quality Managment" class="img-radius img-list" /></a><a href="/Management-Solutions/Print-Quality-Management.aspx">Print Quality Management</a></h3>
-                                    <p class="text-adjust">We monitor, measure, and report on the most comprehensive set of quality metrics in the industry.
-									</p>
-                                    <!-- CMSContentEnd:SixthImageSection -->
-                            </div>
-                            <div class="small-12 medium-6 columns">
                                 <br>
-                                    <!-- CMSContentStart:SeventhImageSection -->
-                                    <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="Analitics Reporting" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
+                                    <!-- CMSContentStart:SixthImageSection -->
+                                    <h3><a href="/Management-Solutions/Analytics-Reporting.aspx"><img src="../images/general/MS_6.png" alt="Analytics Reporting" class="img-radius img-list" /></a><a href="/Management-Solutions/Analytics-Reporting.aspx">Analytics & Reporting</a></h3>
                                     <p class="text-adjust">Performance reporting via customizable, easy-to-read dashboards that communicate key metrics and help drive continuous improvement.
 									</p>
-                                    <!-- CMSContentEnd:SeventhImageSection -->
+                                    <!-- CMSContentEnd:SixthImageSection -->
                             </div>
                             <div class="clear"></div>
                         </div>

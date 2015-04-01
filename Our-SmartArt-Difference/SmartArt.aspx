@@ -23,7 +23,7 @@
 				<div class="small-12 columns">
 					<section id="main-heading">
 						<div class="editable-content">
-						<!-- CMSContentStart:Heading --><h1>SmartArt</h1><!-- CMSContentEnd:Heading -->
+						<!-- CMSContentStart:Heading --><h1>SmartArt<small><sup>SM</sup></small></h1><!-- CMSContentEnd:Heading -->
 						</div>
 						<div class="triangle"></div>
 					</section>
@@ -42,7 +42,12 @@
 								
                                 <h3>Our ability to seamlessly integrate the <em>art of design</em> with the <em>science of execution</em>, in a highly efficient and effective way, is the unique value  we bring to our <a href="/About-Us/Clients.aspx">clients</a>, everyday.</h3>
 								<hr class="spacer">
-                                <img src="../images/general/smart-art.png" alt="Smart Art" class="full-width"/></p>
+                                <div class="rel">
+									<img src="../images/general/smart-art.png" alt="Smart Art" class="full-width"/>
+									<a href="/Design-Solutions/" id="smarthot1"></a>
+									<a href="/Production-Solutions/" id="smarthot2"></a>
+									<a href="/Management-Solutions/" id="smarthot3"></a>
+								</div>
 								<hr class="spacer">
 								<p>Typically, getting from design to press requires multiple tasks and hand-offs  between designers, production artists, assemblers, and print suppliers. These individuals  may work in different departments or even for different companies. Managing  that complex process, while still considering the needs of the downstream  partner, can be a big challenge. All too often, initial files need to be rebuilt  or modified (some multiple times) before they can be proofed and printed. This  can result in compromised designs, unexpected errors, longer turnarounds and  additional production costs. </p>
 								

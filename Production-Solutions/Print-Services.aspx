@@ -59,7 +59,7 @@
 									<li><em>Kodak  Flexcel NX</em> &mdash; the latest in digital flexo plate-making technology. They  minimize waste and maximize efficiency, while delivering print quality that  rivals offset and rotogravure</li>
 									<li><em>Pixel+</em> &mdash; further enhances the print capabilities of <em>DuPont<sup>&reg;</sup> Cyrel<sup>&reg;</sup> DigiFlow, MacDermid LUX</em> and flat-top dot workflows</li>
 								  </ul>
-								<img src="../images/general/PS_print_tools2.png" alt="Print Services" class="img-radius lower-left-image full-width "/>
+								<img src="../images/general/PS_print_tools2.png" width="225" alt="Print Services" class="img-radius image-right image-top"/>
 								<br>
 								<p><strong>Proprietary</strong> solutions from Phototype</p>
 								<ul>
