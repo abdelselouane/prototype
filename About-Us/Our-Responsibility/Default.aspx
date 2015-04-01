@@ -38,8 +38,8 @@
 					<section id="main-content">
                         <div class="row">
                             <div class="small-12 large-12 columns">
-                                <!-- CMSContentStart:SectionTop --><h2 class="large-text margin-top-20px">It&rsquo;s not just what we do...</h2>
-<h3 class="large-text">it&rsquo;s how we do it, and it&prime;s personal.</h3>
+                                <!-- CMSContentStart:SectionTop --><h2>It&rsquo;s not just what we do...</h2>
+<h3>it&rsquo;s how we do it, and it&prime;s personal.</h3>
 <p>Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="/Clients.aspx">clients</a>, our <a href="/Employees.aspx">employees</a>, our <a href="/Communities.aspx">communities</a> and our <a href="/Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry. Born out of strong values that have been embraced for four generations, we take our responsibility to our <a href="/Clients.aspx">clients</a>, our <a href="/Employees.aspx">employees</a>, our <a href="/Communities.aspx">communities</a> and our <a href="/Environment.aspx">environment</a> both seriously and personally. We are passionate about doing the right thing for all of our stakeholders. It&rsquo;s at the heart of who we are, and woven into the fabric of our past, present and future. This fosters a spirit and culture of integrity, compassion, creativity, quality, service and innovation that is unique in the industry.</p>
 <ul class="content-list">
 <li>It&rsquo;s a difference you will see and feel when you walk into our offices</li>
@@ -49,13 +49,13 @@
 <h3>Learn more about how we put our sense of responsibility into practice every day:</h3><!-- CMSContentEnd:SectionTop -->
                             </div>
                         </div>
-                        <div class="row">
+                        <div id="responsability-links" class="row">
                             <div class="small-6 medium-3 large-3 columns">
                                 
                                     <!-- CMSContentStart:FirstImage -->
                                     <a href="Clients.aspx" alt="Clients">
                                      <img src="../../images/general/Our_Responsibility_Clients_1.png" alt="Clients" class="img-radius full-width img-hover" />
-                                    <h3 class="responsability-link">Our Clients</h3>
+                                    <h3>Our Clients</h3>
                                    </a>
                                     <!-- CMSContentEnd:FirstImage -->
                                 
@@ -66,7 +66,7 @@
                                     <a href="Employees.aspx" alt="Employees">
                                      <img src="../../images/general/Our_Responsibility_Employees_1.png" alt="Employees" class="img-radius full-width img-hover" />
                                     
-                                    <h3 class="responsability-link">Our Employees</h3>
+                                    <h3>Our Employees</h3>
                                     </a>
                                     <!-- CMSContentEnd:SecondImage -->
                                  
@@ -77,7 +77,7 @@
                                     <a href="Communities.aspx" alt="Communities">
                                      <img src="../../images/general/Our_Responsibility_communities_1.png" alt="Communities" class="img-radius full-width img-hover" />
                                     
-                                    <h3 class="responsability-link">Our Communities</h3>
+                                    <h3>Our Communities</h3>
                                     </a>
                                     <!-- CMSContentEnd:ThirdImage -->
                             </div>
@@ -87,7 +87,7 @@
                                     <a href="Environment.aspx" alt="Environment">
                                      <img src="../../images/general/Our_Responsibility_Environment_1.png" alt="Environment" class="img-radius full-width img-hover" />
                                     
-                                    <h3 class="responsability-link">Our Environment</h3>
+                                    <h3>Our Environment</h3>
                                    </a>
                                     <!-- CMSContentEnd:FourthImage -->
                             </div>
