@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="small-12 columns">
 					<section id="main-content">
-                        <div class="row">
+                        <div id="locations-layout" class="row">
                             <div class="small-12 large-12 columns">
                                 
                                 <div class="headquarter-image">
@@ -55,7 +55,7 @@
                                         2141 Gilbert Avenue <br />Cincinnati, Ohio 45206<br /><br />
                                     </address>
 
-                                    <ul class="contact">    
+                                    <ul>    
                                         <li>Contact:</li> 
                                         <li>Matt Nolan</li> 
                                         <li><a href="mailto:nolanm@phototype.com">nolanm@phototype.com</a></li>
@@ -94,7 +94,7 @@
                                         2500 Harrison Road <br />Columbus, Ohio 43204<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Jill Kelley</li>
                                         <li><a href="mailto:kelleyj@phototype.com">kelleyj@phototype.com</a></li>
@@ -122,7 +122,7 @@
                                         1340 Walnut Hills Lane <br />Suite190<br />Irving, Texas 75038<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Tim Dunkle</li>
                                         <li><a href="mailto:dunklet@phototype.com">dunklet@phototype.com</a></li>
@@ -167,7 +167,7 @@
                                          W6272 Communication Court <br />Appleton, Wisconsin 54914<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Karla Ellis</li>
                                         <li><a href="mailto:ellis@phototype.com">ellis@phototype.com</a></li>
@@ -195,7 +195,7 @@
                                         1792 East Joyce Avenue <br />Fayetteville, Arkansas 72703<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Tania Herndon</li>
                                         <li><a href="mailto:Herndont@phototype.com">Herndont@phototype.com</a></li>
@@ -232,7 +232,7 @@
 
                                     <address>
                                         中国上海市浦东新区张杨路707号 <br />
-                                        生命人寿大厦22楼2228室 <br />
+								        生命人寿大厦22楼2228室 <br />
                                         Suite 2228, 22th floor <br />
                                         Sino Life Tower <br />
                                         No. 707 Zhangyang Road<br />
@@ -240,7 +240,7 @@
                                         Shanghai, China 200120<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Josh Dearwater</li>
                                         <li><a href="mailto:dearwaterj@phototype.com">dearwaterj@phototype.com</a></li>
@@ -273,7 +273,7 @@
                                         England<br /><br />
                                     </address>
 
-                                    <ul class="contact">
+                                    <ul>
                                         <li>Contact:</li>
                                         <li>Stuart White</li>
                                         <li><a href="mailto:whites@phototype.com">whites@phototype.com</a></li>

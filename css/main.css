@@ -186,7 +186,7 @@ ul.list{
   float: left;
   width: 180px;
 }
-.contact{
+#locations-layout ul{
   list-style: none;
   margin-left: 0px;
   margin-top: 5px;
