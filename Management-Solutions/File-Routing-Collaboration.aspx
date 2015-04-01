@@ -60,7 +60,7 @@
                                 
                                     <img src="../images/general/MS_routing_3.png" alt="File Routing & Collaboration " class="margin-right-35px img-radius img-list" />
                                 
-                                    <ul type="circle" class="cirle-list font-size-16px">
+                                    <ul type="circle" class="cirle-list">
 							             <li>Comments are noted and archived, creating an audit trail of the entire approval process </li>
                                         <li>Allows for color-accurate review using calibrated monitors</li>
 							             <li>Reduces the time, money, and opportunity for error associated with printing and routing hardcopy proofs</li>
@@ -69,7 +69,7 @@
                                  <br /><br />
                                 
                                    <img src="../images/general/MS_4.png" alt="Digital Asset Management" class="img-radius img-list" />
-                                    <p class="text-adjust font-size-16px">Working brand assets &ndash; including digital images, color specifications, and die lines &ndash; are also stored in virtual custom &ldquo;libraries&rdquo;. This centralized repository provides a single, self-serve point of entry for all members of the supply chain to access the latest versions of the graphic elements used in the design and production of packaging and other print materials. This keeps everyone working from the same playbook.</p>
+                                    <p class="text-adjust">Working brand assets &ndash; including digital images, color specifications, and die lines &ndash; are also stored in virtual custom &ldquo;libraries&rdquo;. This centralized repository provides a single, self-serve point of entry for all members of the supply chain to access the latest versions of the graphic elements used in the design and production of packaging and other print materials. This keeps everyone working from the same playbook.</p>
                                 <br /><br />
                                 
                                     <!-- CMSContentEnd:Main -->
