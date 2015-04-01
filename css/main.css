@@ -437,6 +437,10 @@ ul.cirle-list li{
     padding: 5px 0;
     margin-left: 170px;
 }
+
+#file-routing ul, #file-routing p{
+    font-size: 16px;
+}
 /* MEDIA QUERIES
 ===============================
 */
