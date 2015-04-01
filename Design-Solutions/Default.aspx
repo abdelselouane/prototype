@@ -39,7 +39,7 @@
                         <div class="row">
                             <div class="small-12 large-12 columns">
                                 <!-- CMSContentStart:SectionTop -->
-                                <h2 class="large-text">From the big ideas to the smallest details<img src="../images/general/DS_design_adaptaion_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
+                                <h2>From the big ideas to the smallest details<img src="../images/general/DS_design_adaptaion_1.png" alt="Environment" class="img-radius top-right-image full-width"/></h2>
 								<br>
                                 <p><a href="http://www.gravityisgood.com/" target="_blank">Gravity</a>, our brand and packaging design agency, starts with your goals and a blank piece of paper. Then, we immerse ourselves within your product or service category; we walk in your target consumer&rsquo;s shoes to fully understand their shopping mindset, including wants and needs. We identify opportunities to link those wants, needs and desires to the brand&rsquo;s promise, position, and core values. It&rsquo;s this robust strategic process that enables us to deliver engaging designs that drive shoppers to make a purchase. <a href="/Design-Solutions/Strategic-Design.aspx">Strategic design</a> is our core expertise and where we truly shine.</p>
 								
